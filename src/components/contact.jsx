@@ -66,7 +66,7 @@ const Contact = () => {
       to,
       email,
       message
-    }, 'GHXV5k9D9NKrNCvIy') //user id
+    }, 'AmdLUtFXN7QyLtLIO') //user id
       .then(() => {
         //sweet alert send popup {
         swal("Email enviado correctamente", "Dentro de poco estare en contacto contigo", "success")
