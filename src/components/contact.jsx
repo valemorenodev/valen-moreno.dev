@@ -78,7 +78,7 @@ const Contact = () => {
       <Row>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <div id='cvBox'>
-            <h2 >View CV</h2>
+            <h2 >View my CV</h2>
             <Image src={Download} />
           </div>
         </Col>
