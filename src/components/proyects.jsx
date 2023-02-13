@@ -13,24 +13,24 @@ const Proyects = () => {
       </Row>
       <Row>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Card id='proyects' style={{ width: '20rem' }}>
+          <Card id='proyects' style={{ width: '23rem' }}>
             <Card.Img variant="cover" src={BadJokes} />
           </Card>
         </Col>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Card id='proyects' style={{ width: '20rem' }}>
+          <Card id='proyects' style={{ width: '23rem' }}>
             <Card.Img variant="cover" src={Cripto} />
           </Card>
         </Col>
       </Row>
       <Row>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Card id='proyects' style={{ width: '20rem' }}>
+          <Card id='proyects' style={{ width: '23rem' }}>
             <Card.Img variant="cover" src={BadJokes} />
           </Card>
         </Col>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Card id='proyects' style={{ width: '20rem' }}>
+          <Card id='proyects' style={{ width: '23rem' }}>
             <Card.Img variant="cover" src={BadJokes} />
           </Card>
         </Col>
