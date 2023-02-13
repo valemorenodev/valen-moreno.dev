@@ -90,6 +90,17 @@
   color: #f5f2f2;
 }
 
+#cvBox {
+  width: 400px;
+  height: 200px;
+  background: #160B41;
+  border-radius: 5px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #Contact {
   padding: 3rem;
 }
@@ -107,12 +118,78 @@
   align-items: center;
 }
 
+#contactBox:hover {
+  cursor: pointer;
+}
+
 #contacTxt {
   font-family: 'Roboto Flex';
   background: linear-gradient(180deg, #516DFF 6.77%, #A73ED9 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+.modal-header__bg {
+  color: #fff;
+}
+
+.modal-content {
+  background-color: #7F5AF0 !important;
+}
+
+.modal-header__bg,
+.modal-footer__bg,
+.modal-bg {
+  background-color: #080624 !important;
+  border: none !important;
+  border-left: 2px solid #9124D4 !important;
+  border-right: 2px solid #9124D4 !important;
+}
+
+.modal-header__bg {
+  border-top: 2px solid #9124D4 !important;
+}
+
+.modal-footer__bg {
+  border-bottom: 2px solid #9124D4 !important;
+}
+
+input,
+textarea {
+  background-color: #160B41 !important;
+  border: none !important;
+  color: #fff;
+}
+
+/* Modal tittles */
+.form-label {
+  color: #fff;
+}
+
+#modal-tittle-main {
+  color: #9124D4;
+  font-size: 30px;
+}
+
+.modal-header__bg {
+  margin-bottom: -1rem;
+}
+
+.btn-close {
+  opacity: 1 !important;
+}
+
+.form-control {
+  color: rgb(158, 158, 158) !important;
+}
+
+/* Modal buttons */
+.Modal-send__but {
+  width: 140px;
+  background-color: #9124D4 !important;
+  border: none !important;
+  margin-bottom: 0.6rem !important;
 }
 
 #Footer {
