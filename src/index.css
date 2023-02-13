@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Roboto Flex';
+  src: url('./fonts/RobotoFlex-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('./fonts/RobotoCondensed-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./fonts/RobotoMono-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.App {
+  margin: 0%;
+  padding: 0%;
+  background-color: #080624;
+  color: rgb(252, 252, 252);
+}
+
+p {
+  font-family: 'Roboto Mono';
+  width: 70%;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: 'Roboto Condensed';
+}
+
+span {
+  font-family: 'Roboto Flex';
+}
+
+h4 {
+  font-family: 'Roboto Condensed';
+}
+
+@media (min-width: 1000px) {
+
+  p {
+    font-size: 40px;
+  }
+}
