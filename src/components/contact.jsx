@@ -60,34 +60,13 @@ const Contact = () => {
     setEmail("")
     setMessage("")
   }
-  function emailDatSend(to, email, message) {
-    handleClose() // close modal function
-    emailjs.send('service_ukee7jz', 'template_3lk8hej', { //service id - template id
-      to,
-      email,
-      message
-    }, 'AmdLUtFXN7QyLtLIO') //user id
-      .then(() => {
-        //sweet alert send popup {
-        swal("Email enviado correctamente", "Dentro de poco estare en contacto contigo", "success")
-      })
-      .catch(() => {
-        //sweet alert error popup
-        swal("No se pudo enviar el email", "revisa los datos escritos e intenta nuevamente mas tarde", "error")
-      })
-
-    setTo("")
-    setEmail("")
-    setMessage("")
-  }
 
   const sendEmail = (to, email, message) => {
-
     //data validation (if validation is true return to emailDatSend Function)
     if (to === "" || email === "" || message === "") {
-      swal("No pueden haber campos vacios", "", "error", { button: "ok" })
+      Swal.fire("No pueden haber campos vacios", "", "error", { button: "ok" })
     } else if (!regex.test(email)) {
-      swal("Debes escribir una dirección de correo electrónico válida", "", "error", { button: "ok" })
+      Swal.fire("Debes escribir una dirección de correo electrónico válida", "", "error", { button: "ok" })
     } else {
       emailDatSend(to, email, message)
     }
