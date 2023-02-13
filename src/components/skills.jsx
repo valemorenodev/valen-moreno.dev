@@ -24,7 +24,7 @@ const Skills = () => {
           <div className='skillSection'>
             <h4>Development</h4>
             <span>Desarrolladora Front-end con mas 1 año de experiencia laboral certificable con HTML, CSS, JavaScript, TypeScript, Angular, React js, Boostrap y Taildwind.</span>
-            <span>Otras habilidades tècnicas: metodologia agile Scrum, Docker, Portainer, mySql, Net Core, Sonarqube, Linux, ingreso maquinas virtuales de manera remota y manejo de variables de entorno.</span>
+            <span>Otras habilidades: metodologia agil Scrum, Docker, Portainer, mySql, Net Core, Sonarqube, Linux, ingreso maquinas virtuales de manera remota y manejo de variables de entorno.</span>
           </div>
         </div>
       </Row>
