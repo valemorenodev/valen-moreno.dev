@@ -11,7 +11,7 @@ const Contact = () => {
   const handleShow = () => setShow(true);
 
   //Email JS AUTH
-  emailjs.init("GHXV5k9D9NKrNCvIy");
+  emailjs.init("AmdLUtFXN7QyLtLIO");
 
   const [to, setTo] = useState('');
   const [email, setEmail] = useState('');
