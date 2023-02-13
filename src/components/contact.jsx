@@ -1,6 +1,8 @@
 import React from 'react';
 import { useState } from 'react';
-import { Container, Row, Col, Form, Modal, Button } from 'react-bootstrap';
+import { Container, Row, Col, Form, Modal, Button, Image } from 'react-bootstrap';
+import Avatar from '../assets/Avatar.png'
+import Download from '../assets/Download.png'
 import Swal from 'sweetalert2';
 import emailjs from '@emailjs/browser'
 
@@ -73,6 +75,20 @@ const Contact = () => {
   }
   return (
     <Container id='Contact'>
+      <Row>
+        <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
+          <div id='cvBox'>
+            <h2 >View CV</h2>
+            <Image src={Download} />
+          </div>
+        </Col>
+        <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
+          <Image
+            fluid
+            src={Avatar}
+          />
+        </Col>
+      </Row>
       <Row>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <div id='contactBox' onClick={handleShow}>

@@ -90,6 +90,17 @@
   color: #f5f2f2;
 }
 
+#cvBox {
+  width: 400px;
+  height: 200px;
+  background: #160B41;
+  border-radius: 5px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #Contact {
   padding: 3rem;
 }

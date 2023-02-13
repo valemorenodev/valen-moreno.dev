@@ -5,7 +5,6 @@ import Banner from './components/banner'
 import Hero from './components/hero';
 import Skills from './components/skills';
 import Proyects from './components/proyects';
-import End from './components/end';
 import Contact from './components/contact';
 import Footer from './components/footer';
 
@@ -18,7 +17,6 @@ function App() {
       <Hero />
       <Skills />
       <Proyects />
-      <End />
       <Contact />
       <Footer />
     </div>
