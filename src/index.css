@@ -49,6 +49,16 @@ h4 {
   font-family: 'Roboto Condensed';
 }
 
+a {
+  text-decoration: none;
+  color: rgb(252, 252, 252);
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(252, 252, 252);
+}
+
 @media (min-width: 1000px) {
 
   p {

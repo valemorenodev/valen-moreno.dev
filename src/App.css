@@ -80,6 +80,16 @@
   border-radius: 5px 30px;
 }
 
+#proyectsTxt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px 30px;
+  background-color: #516DFF;
+  opacity: 0.6;
+  color: #f5f2f2;
+}
+
 #Contact {
   padding: 3rem;
 }
