@@ -13,8 +13,8 @@ const Header = () => {
             width="30"
             height="30"
             className="d-inline-block align-top"
-          />
-          Valen Moreno
+          />{' '}
+          Vale Moreno
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">

@@ -36,7 +36,7 @@ const Contact = () => {
   //email js
   function emailDatSend(to, email, message) {
     handleClose() // close modal function
-    emailjs.send('service_rl5t3wp', 'template_3qocs2t', { //service id - template id
+    emailjs.send('service_wwompuo', 'template_3qocs2t', { //service id - template id
       to,
       email,
       message
