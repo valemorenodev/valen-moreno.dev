@@ -77,7 +77,7 @@ const Contact = () => {
     <Container id='Contact'>
       <Row>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <a href='https://drive.google.com/drive/folders/13ec_n1jvgkhit60sIZPvUXFf_tJN-YEz' target={'_blank'}>
+          <a href='https://drive.google.com/file/d/1Ec6-RXRWmn0_QEPPdUxaPLb9LxC6QFgX/view?usp=sharing' target={'_blank'}>
             <div id='cvBox'>
               <h2 >View my CV</h2>
               <Image src={Download} />
