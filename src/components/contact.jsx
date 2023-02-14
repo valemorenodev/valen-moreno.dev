@@ -96,7 +96,7 @@ const Contact = () => {
       <Row>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <div id='contactBox' onClick={handleShow}>
-            <h1 ><span id='contacTxt'>Charlemos un poco </span>👋🏼</h1>
+            <h1 ><span id='contacTxt'>¿Quieres contactarme?</span>📬</h1>
           </div>
           <Modal show={show} onHide={handleClose} backdrop="static" centered class="modal-main" >
             <Modal.Header closeButton className="modal-header__bg">
