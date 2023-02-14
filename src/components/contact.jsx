@@ -85,10 +85,12 @@ const Contact = () => {
           </a>
         </Col>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Image
-            fluid
-            src={Avatar}
-          />
+          <a href="#Banner">
+            <Image
+              fluid
+              src={Avatar}
+            />
+          </a>
         </Col>
       </Row>
       <Row>
