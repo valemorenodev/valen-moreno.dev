@@ -12,11 +12,11 @@ const Skills = () => {
           <h2>My Skills</h2>
         </Col>
       </Row>
-      <Row className='skillsItem'>
+      {/*<Row className='skillsItem'>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          {/* <Carrusel /> */}
+          <Carrusel /> 
         </Col>
-      </Row>
+      </Row>*/}
       <Row className='skillsItem'>
         <Col className='col-lg-4 col-md-4 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center' >
           <div className='eclipse'>
