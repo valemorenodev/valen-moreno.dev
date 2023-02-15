@@ -14,7 +14,7 @@ const Skills = () => {
       </Row>
       <Row className='skillsItem'>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <Carrusel />
+          {/* <Carrusel /> */}
         </Col>
       </Row>
       <Row className='skillsItem'>
