@@ -1,0 +1,24 @@
+#proyects {
+  height: 200px;
+  background: #160B41;
+  border-radius: 5px 30px;
+}
+
+#proyects:hover {
+  transform: translateZ(10px) rotateX(20deg) rotateY(20deg);
+}
+
+#proyects img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px 30px;
+}
+
+#proyectsTxt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px 30px;
+  background: rgba(212, 36, 194, 0.28);
+  color: #f5f2f2;
+}

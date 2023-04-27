@@ -1,0 +1,10 @@
+#Footer {
+  background-color: #7F5AF0;
+  max-width: 100%;
+  width: 100%;
+}
+
+#Footer img {
+  height: 2rem;
+  margin: 2px;
+}

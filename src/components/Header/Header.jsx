@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Navbar, Nav } from 'react-bootstrap';
-import Logo from '../assets/Logo.png'
+import './Header.css'
+import Logo from '../../assets/Logo.png'
 
 const Header = () => {
   return (
@@ -13,8 +14,8 @@ const Header = () => {
             width="30"
             height="30"
             className="d-inline-block align-top"
-          />
-          Valen Moreno
+          />{' '}
+          Vale Moreno
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">
