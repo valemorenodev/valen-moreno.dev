@@ -29,7 +29,7 @@ const Skills = () => {
         <Col className='col-lg-8 col-md-8 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center' >
           <div className='skillSection'>
             <h4>Development</h4>
-            <span>Soy una desarrolladora Front-end con más de 1 año de experiencia laboral certificable. Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, TypeScript, Angular, React JS, Bootstrap y Tailwind.</span>
+            <span>Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, TypeScript, Angular, React JS, Bootstrap y Tailwind.</span>
             <span>Además, tengo habilidades en metodologías ágiles como Scrum, y en herramientas como Docker, Portainer, MySql, Net Core, Sonarqube, Linux, ingreso a máquinas virtuales de manera remota y manejo de variables de entorno.</span>
           </div>
         </Col>
