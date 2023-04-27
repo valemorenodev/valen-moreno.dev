@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
-import Avatar from '../assets/Avatar.png'
+import './Banner.css'
+import Avatar from '../../assets/AvatarFace.png'
 
 const Banner = () => {
   return (

@@ -1,7 +1,8 @@
 import React from 'react';
 import { Container, Row, Image, Col } from 'react-bootstrap';
-import Laptop from '../assets/Laptop.png'
-import Palette from '../assets/Palette.png'
+import './Skills.css'
+import Laptop from '../../assets/Laptop.png'
+import Palette from '../../assets/Palette.png'
 
 const Skills = () => {
   return (

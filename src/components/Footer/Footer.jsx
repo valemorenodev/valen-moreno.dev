@@ -1,7 +1,8 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import GitHub from '../assets/GitHub.png'
-import LinkedIn from '../assets/LinkedIn.png'
+import './Footer.css'
+import GitHub from '../../assets/GitHub.png'
+import LinkedIn from '../../assets/LinkedIn.png'
 const Footer = () => {
   return (
     <Container id='Footer'>

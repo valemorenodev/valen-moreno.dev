@@ -1,10 +1,10 @@
 import React from 'react';
-import '../carrusel.css'
+import './Carrusel.css'
 import { Carousel } from 'react-bootstrap';
-import Angular from '../assets/Angular.png'
-import Vite from '../assets/Vite.png'
-import ReactImg from '../assets/ReactImg.png';
-import JavaScript from '../assets/JavaScript.png'
+import Angular from '../../assets/Angular.png'
+import Vite from '../../assets/Vite.png'
+import ReactImg from '../../assets/ReactImg.png';
+import JavaScript from '../../assets/JavaScript.png'
 
 const Carrusel = () => {
   return (

@@ -1,9 +1,10 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import BadJokes from '../assets/BadJokes.png'
-import Cripto from '../assets/Cripto.png'
-import RickAndMorty from '../assets/Rick&Morty.png'
-import ToDo from '../assets/ToDo.png'
+import BadJokes from '../../assets/BadJokes.png'
+import Cripto from '../../assets/Cripto.png'
+import RickAndMorty from '../../assets/Rick&Morty.png'
+import ToDo from '../../assets/ToDo.png'
+import './Projects.css'
 
 const Proyects = () => {
   return (

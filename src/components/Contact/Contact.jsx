@@ -1,7 +1,8 @@
 import { React, useState } from 'react';
 import { Container, Row, Col, Form, Modal, Button, Image } from 'react-bootstrap';
-import Avatar from '../assets/Avatar.png'
-import Download from '../assets/Download.png'
+import Avatar from '../../assets/Avatar.png'
+import Download from '../../assets/Download.png'
+import './Contact.css'
 import Swal from 'sweetalert2';
 import emailjs from '@emailjs/browser'
 
