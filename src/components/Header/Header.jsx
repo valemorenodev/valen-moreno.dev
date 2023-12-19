@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Navbar, Nav } from 'react-bootstrap';
 import './Header.css'
 import Logo from '../../assets/Logo.png'
+import texts from '../../data/texts.json'
 
-const Header = () => {
+const Header = ({ language, onLanguageToggle }) => {
+
+  const currentTexts = texts[language].header;
+
   return (
     <Navbar id='Header' expand="lg" fixed="top">
       <Container>
@@ -20,11 +24,15 @@ const Header = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">
           <Nav className="justify-content-end">
-            <Nav.Link href="#Skills">Skills</Nav.Link>
-            <Nav.Link href="#Proyects">Projects</Nav.Link>
-            <Nav.Link href="#Contact">Contact</Nav.Link>
+            <Nav.Link href="#Skills">{currentTexts.links.skills}</Nav.Link>
+            <Nav.Link href="#Proyects">{currentTexts.links.projects}</Nav.Link>
+            <Nav.Link href="#Contact">{currentTexts.links.contact}</Nav.Link>
+            <button onClick={onLanguageToggle}>
+              {language === 'en' ? 'ESP' : 'ENG'}
+            </button>
           </Nav>
         </Navbar.Collapse>
+
       </Container>
     </Navbar>
   );

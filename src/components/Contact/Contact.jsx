@@ -1,4 +1,5 @@
 import { React, useState } from 'react';
+import texts from '../../data/texts.json';
 import { Container, Row, Col, Form, Modal, Button, Image } from 'react-bootstrap';
 import Avatar from '../../assets/Avatar.png'
 import Download from '../../assets/Download.png'
@@ -6,7 +7,10 @@ import './Contact.css'
 import Swal from 'sweetalert2';
 import emailjs from '@emailjs/browser'
 
-const Contact = () => {
+const Contact = ({ language }) => {
+
+  const contactText = texts[language].info
+
   //Modal variables (state)
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
@@ -79,7 +83,7 @@ const Contact = () => {
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <a href='https://drive.google.com/file/d/1Ec6-RXRWmn0_QEPPdUxaPLb9LxC6QFgX/view?usp=sharing' target={'_blank'}>
             <div id='cvBox'>
-              <h2 >View my CV</h2>
+              <h2 >{contactText.curriculum}</h2>
               <Image src={Download} />
             </div>
           </a>
@@ -96,7 +100,7 @@ const Contact = () => {
       <Row>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <div id='contactBox' onClick={handleShow}>
-            <h1 ><span id='contacTxt'>Enviar un E-mail</span>📬</h1>
+            <h1 ><span id='contacTxt'>{contactText.email}</span>📬</h1>
           </div>
           <Modal show={show} onHide={handleClose} backdrop="static" centered class="modal-main" >
             <Modal.Header closeButton className="modal-header__bg">

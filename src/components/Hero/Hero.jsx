@@ -1,13 +1,16 @@
 import React from 'react';
+import texts from '../../data/texts.json';
 import { Container } from 'react-bootstrap';
 import './Hero.css'
 
-const Hero = () => {
+const Hero = ({ language }) => {
+
+  const HeroText = texts[language].hero
+
   return (
     <Container id='Hero' fluid>
       <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center' >
-        <p>“Si no puedes darme poesía, ¿no puedes al menos darme ciencia poética?”</p>
-
+        <p>“{HeroText}”</p>
       </div>
       <div className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
         <h2>Aida Lovelance</h2>

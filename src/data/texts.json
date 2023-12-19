@@ -1,0 +1,58 @@
+{
+  "en": {
+    "header": {
+      "brand": "Vale Moreno",
+      "links": {
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+      }
+    },
+    "aboutMe": "🚀 Hello! I'm Valentina, a Full Stack developer with a strong focus on React (Front end) and Express (Back end), boasting over 2 years of experience. I am a curious, passionate, and restless individual, constantly researching to tackle new challenges. I see myself as a highly collaborative team member and am dedicated to generating knowledge through teamwork.",
+    "hero": "The machine cannot teach you to think, but it can teach you how to think better.",
+    "skills": {
+      "title": "My skills",
+      "frontEnd": "With a robust background in web application development, I specialize in Front-End development, leveraging key technologies such as HTML, CSS, JavaScript, TypeScript, Angular, React JS, Bootstrap, and Tailwind.",
+      "backEnd": "My expertise extends to the mastery of essential technologies like Express, .Net Core, Spring Boot, Nest.js, and Django, enabling me to efficiently and effectively design and optimize the logic behind user interfaces.",
+      "devops": "I excel in agile methodologies such as Scrum and key DevOps tools like Docker, Portainer, MySQL, MongoDB, Sonarqube, and Linux. My expertise includes remote access to virtual machines and effective management of environment variables, ensuring smooth and secure deployments."
+    },
+    "info": {
+      "curriculum": "My resume",
+      "email": "Sendme a email"
+    },
+    "proyects": {
+      "badjokes": "I've built this application using React to access a bad jokes API, providing a fun experience. The app enables users to easily explore and share humorously deficient jokes in an interactive manner.",
+      "cripto": "I used React to develop an application that consumes an API, classifying and displaying the current value of currencies and cryptocurrencies. Users can easily explore the ranking of these currencies, providing updated information in an intuitive manner.",
+      "rickandmorty": " I implemented an application that uses React to consume the Rick and Morty API. The app displays technical details of characters, locations, and episodes, employing dynamic routing and efficient state management to provide a smooth user experience.",
+      "todo": "I created a To-Do list using React Hooks and local storage within the browser via localhost. The application enables users to efficiently manage tasks with real-time updates and local data persistence."
+    }
+  },
+  "es": {
+    "header": {
+      "brand": "Vale Moreno",
+      "links": {
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+      }
+    },
+    "aboutMe": "🚀 ¡Hola! Soy Valentina, una desarrolladora Full Stack con un fuerte enfoque en React (Front end) y Express (Back end) y más de 2 años de experiencia. Soy una persona curiosa, apasionada e inquieta y siempre estoy investigando para enfrentar nuevos desafíos. Me considero un miembro altamente colaborativo del equipo y estoy comprometida en generar conocimiento a través del trabajo en equipo.",
+    "hero": "La máquina no te puede enseñar a pensar, pero puede enseñarte cómo pensar mejor.",
+    "skills": {
+      "title": "Mis habilidades",
+      "frontEnd": "Con una sólida experiencia en el desarrollo de aplicaciones web, destaco en el ámbito del Front-End, utilizando tecnologías clave como HTML, CSS, JavaScript, TypeScript, Angular, React JS, Bootstrap y Tailwind.",
+      "backEnd": "Mi pericia abarca el manejo de tecnologías clave, como Express, .Net Core, Spring Boot, Nest js y Django permitiéndome diseñar y optimizar la lógica detrás de las interfaces de usuario de manera eficiente y efectiva.",
+      "devops": "Destaco en metodologías ágiles como Scrum y en herramientas DevOps clave como Docker, Portainer, MySQL, MondoDB, Sonarqube y Linux. Mi experiencia incluye el acceso remoto a máquinas virtuales y la gestión eficaz de variables de entorno, garantizando despliegues fluidos y seguros."
+    },
+    "info": {
+      "curriculum": "Mi hoja de vida",
+      "email": "Enviame correo electronico"
+    },
+    "proyects": {
+      "badjokes": "He creado esta aplicación utilizando React para acceder a una API de chistes malos, brindando una experiencia divertida. La aplicación permite a los usuarios explorar y compartir chistes cómicamente deficientes de manera fácil e interactiva.",
+      "cripto": "Utilicé React para desarrollar una aplicación que consume una API, clasificando y mostrando el valor actual de divisas y criptomonedas. Los usuarios pueden explorar fácilmente el ranking de estas monedas, brindando información actualizada de manera intuitiva.",
+      "rickandmorty": " Implementé una aplicación que utiliza React para consumir la API de Rick y Morty. La app muestra detalles técnicos de personajes, ubicaciones y episodios, empleando rutas dinámicas y gestión de estado eficiente para ofrecer una experiencia de usuario fluida.",
+      "todo": "Desarrollé un lista de tareas (To-Do) utilizando Hooks de React y almacenamiento local en el navegador a través de localhost. La aplicación permite a los usuarios gestionar tareas de manera eficiente con actualizaciones en tiempo real y persistencia de datos local."
+    }
+  }
+}

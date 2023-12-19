@@ -10,3 +10,10 @@
   text-decoration: none;
   font-family: 'Roboto Flex';
 }
+
+#Header button {
+  background: none;
+  border: none;
+  color: rgb(252, 252, 252);
+  font-family: 'Roboto Flex';
+}
