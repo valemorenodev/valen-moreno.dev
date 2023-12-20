@@ -100,40 +100,40 @@ const Contact = ({ language }) => {
       <Row>
         <Col className='col-lg-12 col-md-12 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
           <div id='contactBox' onClick={handleShow}>
-            <h1 ><span id='contacTxt'>{contactText.email}</span>📬</h1>
+            <h1 ><span id='contacTxt'>{contactText.sendemail}</span>📬</h1>
           </div>
           <Modal show={show} onHide={handleClose} backdrop="static" centered class="modal-main" >
             <Modal.Header closeButton className="modal-header__bg">
-              <Modal.Title id="modal-tittle-main">Enviar correo de contacto</Modal.Title>
+              <Modal.Title id="modal-tittle-main">{contactText.modaltitle}</Modal.Title>
             </Modal.Header>
             <Modal.Body className="modal-bg">
               <Form>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                  <Form.Label>Nombre</Form.Label>
+                  <Form.Label>{contactText.name}</Form.Label>
                   <Form.Control
                     type="text"
-                    placeholder="Nombre de empresa o remitente"
+                    placeholder={contactText.nameph}
                     autofocus
                     onChange={handleChangeName}
                   />
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                  <Form.Label>Email</Form.Label>
+                  <Form.Label>{contactText.email}</Form.Label>
                   <Form.Control
                     type="email"
-                    placeholder="name@example.com"
+                    placeholder={contactText.emailph}
                     onChange={handleChangeEmail}
                   />
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-                  <Form.Label>Mensaje y razón de contacto</Form.Label>
-                  <Form.Control as="textarea" rows={3} placeholder="Message" onChange={handleChangeMessage} />
+                  <Form.Label>{contactText.menssage}</Form.Label>
+                  <Form.Control as="textarea" rows={3} placeholder={contactText.menssageph} onChange={handleChangeMessage} />
                 </Form.Group>
               </Form>
             </Modal.Body>
             <Modal.Footer className="modal-footer__bg">
               <Button variant="primary" onClick={() => sendEmail(to, email, message)} className="Modal-send__but">
-                Enviar
+                {contactText.sendbtn}
               </Button>
             </Modal.Footer>
           </Modal>

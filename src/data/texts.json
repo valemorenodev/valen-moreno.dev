@@ -18,7 +18,15 @@
     },
     "info": {
       "curriculum": "My resume",
-      "email": "Sendme a email"
+      "sendemail": "Sendme a email",
+      "modaltitle": "Send contact email",
+      "name": "Name",
+      "nameph": "Company name or sender's name",
+      "email": "Email",
+      "emailph": "example@email.com",
+      "menssage": "Message and reason for contact",
+      "menssageph": "Job proposal",
+      "sendbtn": "Send"
     },
     "proyects": {
       "badjokes": "I've built this application using React to access a bad jokes API, providing a fun experience. The app enables users to easily explore and share humorously deficient jokes in an interactive manner.",
@@ -46,7 +54,15 @@
     },
     "info": {
       "curriculum": "Mi hoja de vida",
-      "email": "Enviame correo electronico"
+      "sendemail": "Enviame un correo",
+      "modaltitle": "Enviar correo de contacto",
+      "name": "Nombre",
+      "nameph": "Nombre de empresa o remitente",
+      "email": "Correo electronico",
+      "emailph": "ejemplo@correo.com",
+      "menssage": "Mensaje y razón de contacto",
+      "menssageph": "Propuesta laboral",
+      "sendbtn": "Enviar"
     },
     "proyects": {
       "badjokes": "He creado esta aplicación utilizando React para acceder a una API de chistes malos, brindando una experiencia divertida. La aplicación permite a los usuarios explorar y compartir chistes cómicamente deficientes de manera fácil e interactiva.",
