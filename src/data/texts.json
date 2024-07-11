@@ -8,16 +8,17 @@
         "contact": "Contact"
       }
     },
-    "aboutMe": "🚀 Hello! I'm Valentina, a Full Stack developer with a strong focus on React (Front end) and Express (Back end), boasting over 2 years of experience. I am a curious, passionate, and restless individual, constantly researching to tackle new challenges. I see myself as a highly collaborative team member and am dedicated to generating knowledge through teamwork.",
+    "aboutMe": "🚀 Hello! I'm Valentina, a Full Stack developer with a strong focus on React (Front end) and Express (Back end), boasting over 3 years of experience. I am a curious, passionate, and restless individual, constantly researching to tackle new challenges. I see myself as a highly collaborative team member and am dedicated to generating knowledge through teamwork.",
     "hero": "The machine cannot teach you to think, but it can teach you how to think better.",
     "skills": {
       "title": "My skills",
       "frontEnd": "With a robust background in web application development, I specialize in Front-End development, leveraging key technologies such as HTML, CSS, JavaScript, TypeScript, Angular, React JS, Bootstrap, and Tailwind.",
       "backEnd": "My expertise extends to the mastery of essential technologies like Express, .Net Core, Spring Boot, Nest.js, and Django, enabling me to efficiently and effectively design and optimize the logic behind user interfaces.",
-      "devops": "I excel in agile methodologies such as Scrum and key DevOps tools like Docker, Portainer, MySQL, MongoDB, Sonarqube, and Linux. My expertise includes remote access to virtual machines and effective management of environment variables, ensuring smooth and secure deployments."
+      "devops": "I have experience using agile methodologies such as Scrum and key DevOps tools like Docker, Portainer, MySQL, MongoDB, Sonarqube, and Linux. My expertise includes remote access to virtual machines and effective management of environment variables, ensuring smooth and secure deployments."
     },
     "info": {
       "curriculum": "My resume",
+      "urlCurriculum": "https://drive.google.com/file/d/1IfaWR_pMBs1wi52tugOqm3iJUWzEenSw/view?usp=drive_link",
       "sendemail": "Sendme a email",
       "modaltitle": "Send contact email",
       "name": "Name",
@@ -44,7 +45,7 @@
         "contact": "Contacto"
       }
     },
-    "aboutMe": "🚀 ¡Hola! Soy Valentina, una desarrolladora Full Stack con un fuerte enfoque en React (Front end) y Express (Back end) y más de 2 años de experiencia. Soy una persona curiosa, apasionada e inquieta y siempre estoy investigando para enfrentar nuevos desafíos. Me considero un miembro altamente colaborativo del equipo y estoy comprometida en generar conocimiento a través del trabajo en equipo.",
+    "aboutMe": "🚀 ¡Hola! Soy Valentina, una desarrolladora Full Stack con un fuerte enfoque en React (Front end) y Express (Back end) y más de 3 años de experiencia. Soy una persona curiosa, apasionada e inquieta y siempre estoy investigando para enfrentar nuevos desafíos. Me considero un miembro altamente colaborativo del equipo y estoy comprometida en generar conocimiento a través del trabajo en equipo.",
     "hero": "La máquina no te puede enseñar a pensar, pero puede enseñarte cómo pensar mejor.",
     "skills": {
       "title": "Mis habilidades",
@@ -54,6 +55,7 @@
     },
     "info": {
       "curriculum": "Mi hoja de vida",
+      "urlCurriculum": "https://drive.google.com/file/d/1DYTKKPudOSULR6-c7uSA_Yi7uU7lxxDY/view?usp=sharing",
       "sendemail": "Enviame un correo",
       "modaltitle": "Enviar correo de contacto",
       "name": "Nombre",

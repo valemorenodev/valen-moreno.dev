@@ -81,7 +81,7 @@ const Contact = ({ language }) => {
     <Container id='Contact'>
       <Row>
         <Col className='col-lg-6 col-md-6 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center'>
-          <a href='https://drive.google.com/file/d/1Ec6-RXRWmn0_QEPPdUxaPLb9LxC6QFgX/view?usp=sharing' target={'_blank'}>
+          <a href={contactText.urlCurriculum} target={'_blank'}>
             <div id='cvBox'>
               <h2 >{contactText.curriculum}</h2>
               <Image src={Download} />

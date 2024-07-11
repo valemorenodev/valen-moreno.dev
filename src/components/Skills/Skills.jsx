@@ -65,7 +65,7 @@ const Skills = ({ language }) => {
         </Col>
         <Col className='col-lg-8 col-md-8 col-sm-12 col-xs-12 my-4 d-flex flex-col justify-content-center' >
           <div className='skillSection'>
-            <h4>DevOps</h4>
+            <h4>Others</h4>
             <span>{skillsTexts.devops}</span>
           </div>
         </Col>
