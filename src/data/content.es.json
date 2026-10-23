@@ -1,0 +1,680 @@
+{
+    "meta": {
+        "locale": "es-CO",
+        "label": "Español",
+        "short": "ES",
+        "title": "Valentina Moreno — Full Stack Developer | React · Node · Fintech"
+    },
+    "nav": {
+        "about": "Sobre mí",
+        "skills": "Stack",
+        "projects": "Proyectos",
+        "experience": "Experiencia",
+        "services": "Servicios",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "status": "Abierta a nuevas oportunidades",
+        "role": "Full Stack Developer · React · TypeScript · Node.js",
+        "headline": "Construyo aplicaciones web escalables, accesibles y de alto rendimiento.",
+        "headlineAccent": "de la API al píxel",
+        "intro": "Más de 6 años convirtiendo requisitos complejos en interfaces rápidas, accesibles y mantenibles. Especializada en el front-end de aplicaciones con datos sensibles y en integrar APIs financieras de punta a punta.",
+        "primaryCta": "Ver proyectos destacados",
+        "secondaryCta": "Hablemos",
+        "scrollHint": "Desliza para explorar",
+        "terminalTitle": "valen@portfolio:~",
+        "metricsNote": "Datos de trayectoria",
+        "hint3d": "Mueve el cursor para interactuar con la escena"
+    },
+    "about": {
+        "eyebrow": "Sobre mí",
+        "title": "Desarrolladora full stack con foco en producto",
+        "lead": "Soy Valentina Moreno, Full-Stack Developer con más de 6 años de experiencia desarrollando aplicaciones web, desde interfaces y experiencias de usuario hasta APIs, lógica de negocio e integración de servicios.",
+        "paragraphs": [
+            "Me muevo con comodidad entre el front-end y el back-end: defino la arquitectura de componentes, modelo los contratos de las APIs y cuido que la experiencia se sostenga cuando los datos crecen o fallan.",
+            "Me considero una persona curiosa, colaborativa y orientada a resultados medibles. Documento, hago code review y busco que el conocimiento quede en el equipo, no en una sola cabeza.",
+            "Fuera del código me interesa la accesibilidad, el rendimiento percibido y el diseño de interfaces que hacen que un número difícil se entienda a la primera."
+        ],
+        "valuesTitle": "Cómo trabajo",
+        "values": [
+            {
+                "id": "product",
+                "title": "Pienso en producto, no solo en tickets",
+                "description": "Antes de escribir código pregunto qué decisión toma la persona usuaria con esa pantalla y qué pasa cuando el dato no llega."
+            },
+            {
+                "id": "quality",
+                "title": "Calidad que se puede medir",
+                "description": "Tipado estricto, pruebas sobre la lógica crítica y métricas de rendimiento en lugar de opiniones sobre si 'va rápido'."
+            },
+            {
+                "id": "a11y",
+                "title": "Accesibilidad desde el primer commit",
+                "description": "Navegación por teclado, contraste y semántica correcta: requisito, no una fase final del proyecto."
+            },
+            {
+                "id": "collab",
+                "title": "Comunicación con equipos mixtos",
+                "description": "Trabajo con producto, diseño, QA y negocio traduciendo requisitos ambiguos en entregables concretos."
+            }
+        ],
+        "stats": [
+            {
+                "id": "years",
+                "value": 6,
+                "suffix": "+",
+                "label": "Años de experiencia"
+            },
+            {
+                "id": "projects",
+                "value": 15,
+                "suffix": "+",
+                "label": "Productos y proyectos entregados"
+            },
+            {
+                "id": "stack",
+                "value": 20,
+                "suffix": "+",
+                "label": "Tecnologías en uso activo"
+            },
+            {
+                "id": "impact",
+                "value": 29,
+                "suffix": "pts",
+                "label": "Mejora en el Rendimiento de Lighthouse"
+            }
+        ]
+    },
+    "skills": {
+        "eyebrow": "Stack técnico",
+        "title": "Tecnologías con las que trabajo a diario",
+        "subtitle": "Agrupadas por la responsabilidad que cubren, no por moda. Cada una la he usado en un producto real.",
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Front-end",
+                "description": "Interfaces de datos complejas, componentes reutilizables y rendimiento percibido.",
+                "items": [
+                    "React",
+                    "TypeScript",
+                    "JavaScript",
+                    "Angular",
+                    "Vite",
+                    "Tailwind CSS",
+                    "TanStack Query",
+                    "Zustand",
+                    "HTML5",
+                    "CSS3",
+                    "Framer Motion",
+                    "Three.js"
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Back-end & APIs",
+                "description": "Diseño de servicios, modelado de datos y contratos de API estables.",
+                "items": [
+                    "Node.js",
+                    "Express",
+                    "NestJS",
+                    "Spring Boot",
+                    ".NET Core",
+                    "Django",
+                    "REST",
+                    "GraphQL",
+                    "Zod",
+                    "JWT"
+                ]
+            },
+            {
+                "id": "data",
+                "title": "Datos & almacenamiento",
+                "description": "Persistencia, consultas eficientes y consistencia de la información financiera.",
+                "items": [
+                    "PostgreSQL",
+                    "MySQL",
+                    "MongoDB",
+                    "Redis",
+                    "SQL"
+                ]
+            },
+            {
+                "id": "quality",
+                "title": "Calidad & testing",
+                "description": "Red de seguridad para refactorizar con confianza.",
+                "items": [
+                    "Vitest",
+                    "Jest",
+                    "Testing Library",
+                    "Playwright",
+                    "ESLint",
+                    "Prettier",
+                    "SonarQube"
+                ]
+            },
+            {
+                "id": "devops",
+                "title": "DevOps & infraestructura",
+                "description": "Despliegues reproducibles y entornos controlados.",
+                "items": [
+                    "Docker",
+                    "Git",
+                    "GitHub Actions",
+                    "Linux",
+                    "Vercel",
+                    "Nginx",
+                    "Portainer"
+                ]
+            },
+            {
+                "id": "practices",
+                "title": "Metodología",
+                "description": "Cómo organizo el trabajo con el equipo.",
+                "items": [
+                    "Scrum",
+                    "Code Review",
+                    "Testing",
+                    "Accesibilidad (WCAG)",
+                    "Core Web Vitals",
+                    "Design System"
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "eyebrow": "Proyectos",
+        "title": "Trabajo seleccionado",
+        "subtitle": "Cada ficha sigue la misma estructura: el reto, lo que construí, las decisiones técnicas y el resultado. Los campos entre corchetes están pendientes de completar con datos reales.",
+        "placeholderHelp": "Los campos resaltados en ámbar esperan una métrica real: sustitúyelos por cifras verificables antes de publicar el portafolio.",
+        "labels": {
+            "challenge": "El reto",
+            "solution": "Qué construí",
+            "highlights": "Decisiones técnicas",
+            "result": "Resultado e impacto",
+            "stack": "Stack",
+            "demo": "Ver demo",
+            "code": "Ver código",
+            "placeholderNote": "Pendiente de completar con datos medibles."
+        },
+        "items": [
+            {
+                "id": "cripto",
+                "featured": true,
+                "category": "Datos financieros · Front-end",
+                "title": "Cripto — panel de mercado en tiempo real",
+                "summary": "Aplicación que consume APIs de mercado para clasificar y visualizar el valor de divisas y criptomonedas, con ranking, variaciones y actualización continua de datos.",
+                "challenge": "Presentar series de precios que cambian constantemente sin que la interfaz se vuelva ilegible ni pierda fluidez en dispositivos modestos.",
+                "solution": "Construí un panel con tarjetas de ranking, formateo de divisas y estados de carga/error explícitos, apoyado en un consumo de API desacoplado de la capa de presentación.",
+                "highlights": [
+                    "Separación entre la obtención de datos y el renderizado para poder cambiar de proveedor de API sin tocar la UI.",
+                    "Formateo de moneda y números grandes con Intl, evitando errores de precisión al mostrar cifras.",
+                    "Esqueletos de carga y estados vacíos en lugar de pantallas en blanco mientras llega el dato."
+                ],
+                "result": "[RESULTADO: añade una métrica real, p. ej. tiempo de carga, número de activos soportados o usuarios]",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "REST API",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://cripto-eosin.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "rickandmorty",
+                "featured": true,
+                "category": "SPA · Enrutado y estado",
+                "title": "Rick & Morty — explorador con rutas dinámicas",
+                "summary": "Aplicación que consume una API pública para mostrar el detalle de personajes, ubicaciones y episodios, con rutas dinámicas y gestión de estado eficiente.",
+                "challenge": "Sostener navegación profunda y filtros combinados sin recargar la aplicación ni duplicar peticiones.",
+                "solution": "Implementé rutas dinámicas por entidad, cacheo de resultados y una capa de estado que evita volver a pedir datos ya visitados.",
+                "highlights": [
+                    "Rutas dinámicas con parámetros para poder compartir un enlace directo a cualquier ficha.",
+                    "Cacheo en cliente para reducir peticiones repetidas y mejorar la sensación de velocidad.",
+                    "Componentes de detalle reutilizables entre entidades distintas."
+                ],
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "React Router",
+                    "REST API"
+                ],
+                "links": {
+                    "demo": "https://rick-and-morty-mocha-delta.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "todo",
+                "featured": false,
+                "category": "Productividad · Persistencia local",
+                "title": "To-Do — gestión de tareas con persistencia",
+                "summary": "Lista de tareas construida con Hooks de React y almacenamiento local del navegador, con actualizaciones en tiempo real y persistencia entre sesiones.",
+                "challenge": "Mantener el estado sincronizado con el almacenamiento local sin romper la experiencia cuando el usuario recarga o cierra la pestaña.",
+                "solution": "Creé un estado controlado por Hooks, sincronizado con localStorage y con operaciones de crear, completar y eliminar tareas.",
+                "highlights": [
+                    "Estado derivado y sincronización explícita con localStorage en cada mutación.",
+                    "Componentes pequeños y enfocados, fáciles de testear de forma aislada.",
+                    "Interfaz operable por teclado para añadir y completar tareas."
+                ],
+                "stack": [
+                    "React",
+                    "React Hooks",
+                    "localStorage",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://to-do-delta-bice.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "badjokes",
+                "featured": false,
+                "category": "Consumo de API · UI ligera",
+                "title": "Bad Jokes — consumo de API con enfoque lúdico",
+                "summary": "Aplicación que consume una API de chistes para explorarlos y compartirlos de forma interactiva, cuidando los estados de carga y de error.",
+                "challenge": "Ofrecer una experiencia ágil con una API externa que puede tardar o fallar.",
+                "solution": "Implementé el consumo con manejo explícito de errores, controles de interacción claros y una interfaz ligera centrada en la acción principal.",
+                "highlights": [
+                    "Manejo de errores visible para el usuario en lugar de fallos silenciosos.",
+                    "Interfaz mínima que prioriza la acción principal en una sola pantalla.",
+                    "Estilos propios reutilizables sin dependencias pesadas."
+                ],
+                "result": "[RESULTADO: añade una métrica real si la tienes]",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "REST API",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://valemorenodev.github.io/bad-jokes/",
+                    "code": ""
+                }
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Trayectoria",
+        "title": "Experiencia profesional",
+        "subtitle": "Los campos entre corchetes los completas tú: nombres de empresa, fechas y logros medibles.",
+        "labels": {
+            "current": "Actualidad",
+            "stack": "Stack"
+        },
+        "items": [
+            {
+                "id": "freelance-fullstack",
+                "period": "Diciembre 2021 — Actualidad",
+                "role": "Desarrolladora Full-Stack",
+                "company": "Profesional independiente",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": true,
+                "summary": "Diseño, desarrollo y mantengo aplicaciones web para clientes de distintos sectores, desde la construcción de interfaces hasta la implementación de lógica de negocio, APIs e integración de servicios. He trabajado en dashboards administrativos, plataformas de comercio electrónico, sistemas de gestión de cobranza y soluciones empresariales, adaptando cada producto a las necesidades del negocio.",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "Node.js",
+                    "Python",
+                    "HTML5",
+                    "CSS3",
+                    "REST APIs"
+                ]
+            },
+            {
+                "id": "ntt-data",
+                "period": "Marzo 2025 — Marzo 2026",
+                "role": "Especialista en desarrollo",
+                "company": "NTT DATA Europe & Latam",
+                "location": "Híbrido · Bogotá, Colombia",
+                "current": false,
+                "summary": "Participé en el desarrollo y la evolución de soluciones de software empresarial para clientes como Credicorp Capital, Avianca, Porvenir y Telefónica. Contribuí a la automatización de procesos administrativos, la integración de servicios y la mejora de aplicaciones web, priorizando la calidad del código, la mantenibilidad y las necesidades del negocio.",
+                "achievements": [
+                    "Contribuí a la automatización de procesos administrativos en proyectos para Avianca y Credicorp Capital, apoyando la optimización de tareas operativas y flujos de trabajo.",
+                    "Desarrollé y mantuve funcionalidades web e integraciones mediante APIs REST para facilitar la comunicación entre sistemas y el intercambio de información.",
+                    "Apliqué buenas prácticas de desarrollo, refactorización y análisis estático con SonarQube, colaborando con los equipos de QA para mejorar la calidad y mantenibilidad del software.",
+                    "Colaboré con equipos técnicos y de negocio bajo metodologías ágiles Scrum en la planificación, validación y entrega de funcionalidades.",
+                    "Participé en mejoras de interfaces, accesibilidad, rendimiento y procesos de integración y entrega continua (CI/CD)."
+                ],
+                "stack": [
+                    "Angular",
+                    "React",
+                    "Next.js",
+                    "TypeScript",
+                    "JavaScript",
+                    "Python",
+                    ".NET",
+                    "REST APIs",
+                    "PostgreSQL",
+                    "SonarQube",
+                    "Azure DevOps",
+                    "CI/CD",
+                    "Git",
+                    "Scrum"
+                ]
+            },
+            {
+                "id": "nabit",
+                "period": "Diciembre 2024 — Marzo 2025",
+                "role": "Desarrolladora de software móvil",
+                "company": "Nabit",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": false,
+                "summary": "Desarrollé y mantuve funcionalidades de aplicaciones móviles utilizando Flutter y Dart, participando en la optimización del rendimiento, la corrección de errores y la mejora continua de la experiencia del usuario. También colaboré en procesos CI/CD para apoyar la integración, validación y distribución de cambios.",
+                "achievements": [
+                    "Desarrollé y mantuve funcionalidades móviles con Flutter y Dart, adaptándolas a los requerimientos funcionales de la aplicación.",
+                    "Realicé ajustes en componentes, interfaces y flujos de navegación para contribuir al rendimiento, la estabilidad y la usabilidad de la aplicación.",
+                    "Identifiqué, analicé y corregí errores para mejorar la confiabilidad del software y la experiencia del usuario.",
+                    "Participé en procesos de integración y entrega continua (CI/CD), apoyando los flujos de trabajo de desarrollo y despliegue.",
+                    "Validé cambios mediante pruebas funcionales y colaboré en el mantenimiento de funcionalidades existentes y la resolución de incidencias."
+                ],
+                "stack": [
+                    "Flutter",
+                    "Dart",
+                    "Desarrollo móvil",
+                    "CI/CD",
+                    "Depuración",
+                    "Optimización de aplicaciones",
+                    "Pruebas funcionales"
+                ]
+            },
+            {
+                "id": "pelaez-hermanos",
+                "period": "Febrero 2024 — Junio 2024",
+                "role": "Desarrolladora .NET",
+                "company": "Peláez Hermanos S.A.",
+                "location": "Presencial · Bogotá, Colombia",
+                "current": false,
+                "summary": "Desarrollé y mantuve soluciones de software empresarial utilizando tecnologías del ecosistema .NET y herramientas complementarias. Participé en la construcción de aplicaciones web y de escritorio, la automatización de tareas operativas y la integración de sistemas, contribuyendo a la eficiencia, estabilidad y mantenibilidad de las soluciones.",
+                "achievements": [
+                    "Desarrollé y mantuve aplicaciones empresariales web y de escritorio utilizando .NET y DevExpress, implementando funcionalidades según los requerimientos del negocio.",
+                    "Creé scripts y herramientas de automatización con Python para simplificar tareas repetitivas y reducir la intervención manual en procesos operativos.",
+                    "Colaboré en la integración de sistemas y componentes para facilitar la comunicación entre aplicaciones y el intercambio de información.",
+                    "Implementé ajustes funcionales y mejoras técnicas para mantener la estabilidad y el correcto funcionamiento de las aplicaciones.",
+                    "Realicé pruebas, depuración de código y resolución de incidencias para identificar errores y contribuir a la calidad del software.",
+                    "Mantuve y optimicé aplicaciones existentes, aplicando buenas prácticas para favorecer la legibilidad, reutilización y mantenibilidad del código."
+                ],
+                "stack": [
+                    ".NET",
+                    "DevExpress",
+                    "Python",
+                    "Aplicaciones web",
+                    "Aplicaciones de escritorio",
+                    "Automatización de procesos",
+                    "Integración de sistemas",
+                    "Pruebas y depuración"
+                ]
+            },
+            {
+                "id": "accenture-sg-sst",
+                "period": "Julio 2023 — Enero 2024",
+                "role": "Desarrolladora .NET (SG-SST)",
+                "company": "Accenture Colombia",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": false,
+                "summary": "Participé en el desarrollo y mantenimiento de soluciones empresariales utilizando tecnologías del ecosistema Microsoft y herramientas modernas de desarrollo web. Contribuí a la implementación de funcionalidades, la automatización de procesos y la mejora continua de aplicaciones, priorizando la calidad del software, la mantenibilidad y la eficiencia de los flujos de trabajo.",
+                "achievements": [
+                    "Desarrollé y mantuve funcionalidades para aplicaciones empresariales utilizando .NET Framework y C#, alineadas con los requerimientos del negocio.",
+                    "Implementé soluciones de bajo código con Microsoft Power Apps para apoyar la digitalización y automatización de procesos empresariales.",
+                    "Desarrollé interfaces web con Next.js y React.js, utilizando componentes reutilizables para facilitar el mantenimiento y la evolución de las aplicaciones.",
+                    "Utilicé Azure DevOps para gestionar el ciclo de vida del desarrollo, incluyendo control de versiones, seguimiento de tareas y apoyo en procesos CI/CD.",
+                    "Trabajé con MongoDB para la persistencia y gestión de datos según los requerimientos de los proyectos.",
+                    "Realicé análisis estático del código con SonarQube para identificar oportunidades de mejora en mantenibilidad, seguridad y calidad.",
+                    "Colaboré en la corrección de incidencias y la aplicación de buenas prácticas para contribuir a la estabilidad y evolución del software."
+                ],
+                "stack": [
+                    ".NET Framework",
+                    "C#",
+                    "Microsoft Power Apps",
+                    "Azure DevOps",
+                    "Next.js",
+                    "React.js",
+                    "MongoDB",
+                    "SonarQube",
+                    "CI/CD",
+                    "Git",
+                    "Desarrollo web",
+                    "Automatización de procesos"
+                ]
+            },
+            {
+                "id": "red-jobs-frontend-lead",
+                "period": "Febrero 2023 — Abril 2023",
+                "role": "Líder Front-End",
+                "company": "Red Jobs",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": false,
+                "summary": "Lideré el equipo Front-End durante el desarrollo de la plataforma de gestión de aliados de Red Jobs y participé en tareas Full-Stack utilizando el stack MERN. Contribuí a la definición de la estructura técnica, el desarrollo de funcionalidades administrativas y la creación de interfaces orientadas a mejorar la gestión de proyectos e información empresarial.",
+                "achievements": [
+                    "Lideré y coordiné al equipo Front-End, promoviendo la colaboración técnica, la organización de tareas y el cumplimiento de los objetivos del proyecto.",
+                    "Participé en la definición de la arquitectura y estructura de la aplicación, priorizando una organización modular y mantenible.",
+                    "Desarrollé interfaces y funcionalidades web con React.js y librerías de su ecosistema, favoreciendo la reutilización de componentes y la experiencia de usuario.",
+                    "Implementé rutas dinámicas para listar proyectos empresariales y mostrar sus descripciones, facilitando el acceso a la información.",
+                    "Desarrollé un módulo de finanzas dentro del dashboard administrativo para centralizar funcionalidades de gestión financiera.",
+                    "Implementé e integré funcionalidades del lado del servidor con Node.js y Express.js, utilizando MongoDB para la gestión de datos.",
+                    "Diseñé propuestas de UX/UI en Figma, alineando las interfaces con los requerimientos funcionales del producto.",
+                    "Colaboré bajo la metodología Scrum en la planificación, implementación y seguimiento de las funcionalidades."
+                ],
+                "stack": [
+                    "React.js",
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB",
+                    "MERN Stack",
+                    "Figma",
+                    "Scrum",
+                    "Desarrollo Full-Stack",
+                    "Liderazgo técnico",
+                    "Diseño UX/UI"
+                ]
+            },
+            {
+                "id": "cobrando-bpo-web-developer",
+                "period": "Diciembre 2022 — Febrero 2023",
+                "role": "Desarrolladora web",
+                "company": "COBRANDO BPO",
+                "location": "Bogotá, Colombia",
+                "current": false,
+                "summary": "Desarrollé y mantuve aplicaciones web orientadas a la recuperación de cartera, la administración de información y la visualización de indicadores. Contribuí a mejorar la funcionalidad, usabilidad y estabilidad de herramientas internas mediante el desarrollo de interfaces responsivas, el mantenimiento de componentes y la resolución de incidencias.",
+                "achievements": [
+                    "Desarrollé interfaces web dinámicas y responsivas con React.js, JavaScript, HTML5, CSS3 y Bootstrap, priorizando la usabilidad y la consistencia visual.",
+                    "Implementé y mantuve funcionalidades para sistemas de recuperación de cartera, CRM y dashboards, facilitando la consulta y el seguimiento de la información.",
+                    "Mejoré componentes de interfaz, corregí errores y resolví incidencias para mantener el funcionamiento y la estabilidad de las aplicaciones.",
+                    "Gestioné el código fuente mediante GitLab, aplicando prácticas de control de versiones y colaboración técnica.",
+                    "Utilicé Docker para apoyar la configuración y ejecución de aplicaciones en entornos de desarrollo controlados.",
+                    "Organicé tareas y realicé seguimiento de actividades y entregas con Jira, colaborando bajo la metodología ágil Scrum.",
+                    "Trabajé de forma remota mediante máquinas virtuales para desarrollar, validar y mantener aplicaciones empresariales."
+                ],
+                "stack": [
+                    "React.js",
+                    "JavaScript",
+                    "HTML5",
+                    "CSS3",
+                    "Bootstrap",
+                    "Docker",
+                    "GitLab",
+                    "Jira",
+                    "Scrum",
+                    "Máquinas virtuales",
+                    "Desarrollo Front-End",
+                    "Mantenimiento de aplicaciones web"
+                ]
+            },
+            {
+                "id": "hgio-web-developer",
+                "period": "Octubre 2022 — Noviembre 2022",
+                "role": "Desarrolladora web",
+                "company": "HGIO S.A.S.",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": false,
+                "summary": "Participé en el desarrollo y mantenimiento de interfaces web durante un contrato temporal, utilizando tecnologías del ecosistema JavaScript para implementar ajustes funcionales, mejorar componentes visuales y adaptar las aplicaciones a los requerimientos de cada proyecto. Me enfoqué en la organización del código, la usabilidad y la mantenibilidad de las interfaces.",
+                "achievements": [
+                    "Desarrollé y mantuve interfaces web con Angular, TypeScript y JavaScript, utilizando componentes reutilizables y una estructura de código organizada.",
+                    "Implementé y ajusté estilos con Sass (SCSS) para mantener la consistencia visual y facilitar el mantenimiento de las hojas de estilo.",
+                    "Corregí errores, ajusté funcionalidades y resolví incidencias en componentes existentes para contribuir a la estabilidad de las aplicaciones.",
+                    "Adapté interfaces a los requerimientos funcionales y visuales de los proyectos, priorizando la usabilidad y la correcta visualización de los elementos.",
+                    "Gestioné el código fuente y el seguimiento de cambios mediante GitLab, apoyando el control de versiones y la colaboración técnica.",
+                    "Organicé y realicé seguimiento de tareas con Trello para apoyar la planificación del trabajo y el cumplimiento de los requerimientos.",
+                    "Colaboré de forma remota con el equipo de desarrollo en la implementación de mejoras y el mantenimiento de la calidad del código."
+                ],
+                "stack": [
+                    "Angular",
+                    "TypeScript",
+                    "JavaScript",
+                    "Sass (SCSS)",
+                    "GitLab",
+                    "Trello",
+                    "Desarrollo Front-End",
+                    "Componentes reutilizables",
+                    "Mantenimiento de aplicaciones web"
+                ]
+            },
+            {
+                "id": "rym-comunicaciones-frontend",
+                "period": "Febrero 2021 — Agosto 2022",
+                "role": "Desarrolladora Front-End",
+                "company": "R Y M Comunicaciones S.A.S.",
+                "location": "Remoto · Bogotá, Colombia",
+                "current": false,
+                "summary": "Desarrollé y mantuve interfaces web para proyectos digitales como profesional independiente, transformando requerimientos funcionales y diseños en experiencias interactivas y responsivas. Me enfoqué en la reutilización de componentes, la consistencia visual, la usabilidad y la adaptación de las interfaces a las necesidades de cada proyecto.",
+                "achievements": [
+                    "Desarrollé interfaces web interactivas utilizando React.js, JavaScript, HTML5 y CSS3, convirtiendo requerimientos funcionales y diseños en soluciones web.",
+                    "Implementé diseños responsivos con Bootstrap para facilitar la visualización y navegación en diferentes dispositivos y tamaños de pantalla.",
+                    "Creé, adapté y mantuve componentes de interfaz reutilizables para favorecer la consistencia visual y facilitar el mantenimiento del código.",
+                    "Corregí errores y realicé ajustes de estilos y mejoras funcionales para optimizar la usabilidad y el comportamiento de las aplicaciones.",
+                    "Gestioné el código fuente con GitLab, aplicando prácticas de control de versiones y organización del desarrollo.",
+                    "Organicé tareas y realicé seguimiento de avances mediante Trello para apoyar la planificación y entrega de funcionalidades en entornos remotos.",
+                    "Adapté interfaces y funcionalidades a los requerimientos de los proyectos, contribuyendo a la calidad y evolución de los productos digitales."
+                ],
+                "stack": [
+                    "React.js",
+                    "JavaScript",
+                    "HTML5",
+                    "CSS3",
+                    "Bootstrap",
+                    "GitLab",
+                    "Trello",
+                    "Desarrollo Front-End",
+                    "Diseño web responsivo",
+                    "Componentes reutilizables",
+                    "Mantenimiento de aplicaciones web"
+                ]
+            }
+        ]
+    },
+    "services": {
+        "eyebrow": "Servicios",
+        "title": "En qué puedo aportar a tu equipo",
+        "subtitle": "Perfiles que encajan con equipos de producto, especialmente en el sector financiero.",
+        "items": [
+            {
+                "id": "web-apps",
+                "title": "Desarrollo de aplicaciones web",
+                "description": "Del diseño de componentes a la integración con el back-end: aplicaciones React completas, tipadas y listas para producción.",
+                "icon": "layout"
+            },
+            {
+                "id": "dashboards",
+                "title": "Dashboards y visualización de datos",
+                "description": "Paneles que convierten información financiera compleja en decisiones claras: tablas, rankings, gráficas y estados de error bien resueltos.",
+                "icon": "chart"
+            },
+            {
+                "id": "integrations",
+                "title": "Integración de APIs y servicios",
+                "description": "Consumo de APIs REST y GraphQL, autenticación, manejo de errores y contratos estables entre front-end y back-end.",
+                "icon": "plug"
+            },
+            {
+                "id": "performance",
+                "title": "Rendimiento, accesibilidad y calidad",
+                "description": "Optimización de Core Web Vitals, accesibilidad WCAG, pruebas automatizadas y reducción de deuda técnica.",
+                "icon": "gauge"
+            }
+        ]
+    },
+    "contact": {
+        "eyebrow": "Contacto",
+        "title": "¿Construimos algo juntos?",
+        "subtitle": "Cuéntame sobre tu equipo, tu producto o el reto técnico que tienes delante. Respondo en menos de 24 horas.",
+        "emailLabel": "Escríbeme",
+        "email": "valentinamoreno.dev@gmail.com",
+        "linkedinLabel": "LinkedIn",
+        "linkedin": "https://www.linkedin.com/in/diana-valentina-moreno/",
+        "githubLabel": "GitHub",
+        "github": "https://github.com/valemorenodev",
+        "cvLabel": "Descargar CV",
+        "cvHref": "",
+        "availability": "Disponible para roles full stack y front-end, en remoto.",
+        "form": {
+            "open": "Enviarme un mensaje",
+            "title": "Enviar mensaje",
+            "name": "Nombre",
+            "namePlaceholder": "Tu nombre o el de tu empresa",
+            "email": "Correo electrónico",
+            "emailPlaceholder": "tu@correo.com",
+            "message": "Mensaje",
+            "messagePlaceholder": "Cuéntame sobre el rol o el proyecto",
+            "submit": "Enviar mensaje",
+            "sending": "Enviando…",
+            "cancel": "Cancelar",
+            "successTitle": "Mensaje enviado",
+            "successText": "Gracias por escribirme. Te responderé lo antes posible.",
+            "errorTitle": "No se pudo enviar",
+            "errorText": "Revisa los datos e inténtalo de nuevo en unos minutos.",
+            "validationEmpty": "Completa todos los campos antes de enviar.",
+            "validationEmail": "Escribe una dirección de correo electrónico válida."
+        }
+    },
+    "footer": {
+        "tagline": "Full Stack Developer · React · TypeScript · Node.js",
+        "location": "Colombia · Trabajo en remoto",
+        "navTitle": "Navegación",
+        "socialTitle": "Redes y contacto",
+        "rights": "Todos los derechos reservados.",
+        "builtWith": "Construido con React, Tailwind CSS, Three.js y Framer Motion."
+    },
+    "ui": {
+        "languageToggle": "Cambiar idioma",
+        "openMenu": "Abrir menú",
+        "closeMenu": "Cerrar menú",
+        "skipToContent": "Saltar al contenido principal",
+        "backToTop": "Volver arriba",
+        "loading3d": "Cargando escena 3D",
+        "themeNote": "Modo oscuro permanente"
+    },
+    "notFound": {
+        "metaTitle": "404 — Página no encontrada | Valentina Moreno",
+        "gameMetaTitle": "Cubo infinito — Minijuego | Valentina Moreno",
+        "code": "Error 404",
+        "title": "Esta ruta no existe",
+        "description": "La página que buscas no está aquí. Puede que el enlace esté roto o que la dirección tenga una errata. Mientras decides adónde ir, te propongo un desvío: un pequeño juego.",
+        "homeCta": "Volver al inicio",
+        "projectsCta": "Ver proyectos",
+        "gameTitle": "Cubo infinito",
+        "gameSubtitle": "Esquiva los pinchos, recoge monedas y aguanta todo lo que puedas. Cada partida sube la velocidad.",
+        "game": {
+            "start": "Jugar",
+            "again": "Reintentar",
+            "restart": "Reiniciar",
+            "distance": "Distancia",
+            "coins": "Monedas",
+            "best": "Récord",
+            "gameOver": "Has chocado",
+            "newRecord": "¡Nuevo récord!",
+            "mute": "Silenciar sonido",
+            "unmute": "Activar sonido",
+            "controlsJumpLabel": "para saltar",
+            "controlsTouch": "En móvil, toca la pantalla. También puedes hacer clic.",
+            "controlsJump": [
+                "Espacio",
+                "↑",
+                "W"
+            ],
+            "canvasLabel": "Minijuego: un cubo salta sobre obstáculos. Usa la barra espaciadora o la flecha arriba para saltar."
+        }
+    }
+}

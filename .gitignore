@@ -12,6 +12,15 @@ dist
 dist-ssr
 *.local
 
+# Variables de entorno (credenciales de EmailJS)
+.env
+.env.*
+!.env.example
+
+# Artefactos de verificación visual
+tmp-screens/
+tmp-chrome-profile/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

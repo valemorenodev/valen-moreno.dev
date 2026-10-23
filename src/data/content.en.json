@@ -1,0 +1,682 @@
+{
+    "meta": {
+        "locale": "en-US",
+        "label": "English",
+        "short": "EN",
+        "title": "Valentina Moreno — Full Stack Developer | React · Node · Fintech"
+    },
+    "nav": {
+        "about": "About",
+        "skills": "Stack",
+        "projects": "Projects",
+        "experience": "Experience",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "hero": {
+        "status": "Open to new opportunities",
+        "role": "Full Stack Developer · React · TypeScript · Node.js",
+        "headline": "I build scalable, accessible and high-performance web applications.",
+        "headlineAccent": "from API to pixel",
+        "intro": "Over 6 years turning complex requirements into fast, accessible and maintainable interfaces. I specialise in the front-end of data-heavy applications and in integrating financial APIs end to end.",
+        "primaryCta": "See featured projects",
+        "secondaryCta": "Let's talk",
+        "scrollHint": "Scroll to explore",
+        "terminalTitle": "valen@portfolio:~",
+        "metricsNote": "Career highlights",
+        "hint3d": "Move your cursor to interact with the scene"
+    },
+    "about": {
+        "eyebrow": "About me",
+        "title": "A full stack developer with a product mindset",
+        "lead": "I'm Valentina Moreno, a Full-Stack Developer with 6+ years of experience building web applications, from user interfaces and experiences to APIs, business logic, and service integrations.",
+        "paragraphs": [
+            "I move comfortably between front-end and back-end: I define component architecture, model API contracts and make sure the experience holds up when data grows or fails.",
+            "I'm curious, collaborative and focused on measurable outcomes. I document, I review code and I make sure knowledge stays with the team rather than in one person's head.",
+            "Beyond code I care about accessibility, perceived performance and interfaces that make a hard number understandable at first glance."
+        ],
+        "valuesTitle": "How I work",
+        "values": [
+            {
+                "id": "product",
+                "title": "I think in products, not tickets",
+                "description": "Before writing code I ask what decision the user is making on that screen and what happens when the data doesn't arrive."
+            },
+            {
+                "id": "quality",
+                "title": "Quality you can measure",
+                "description": "Strict typing, tests over critical logic and performance metrics instead of opinions about whether it 'feels fast'."
+            },
+            {
+                "id": "a11y",
+                "title": "Accessibility from the first commit",
+                "description": "Keyboard navigation, contrast and correct semantics: a requirement, not a final project phase."
+            },
+            {
+                "id": "collab",
+                "title": "Communication across mixed teams",
+                "description": "I work with product, design, QA and business, turning ambiguous requirements into concrete deliverables."
+            }
+        ],
+        "stats": [
+            {
+                "id": "years",
+                "value": 6,
+                "suffix": "+",
+                "label": "Years of experience"
+            },
+            {
+                "id": "projects",
+                "value": 15,
+                "suffix": "+",
+                "label": "Products and projects delivered"
+            },
+            {
+                "id": "stack",
+                "value": 20,
+                "suffix": "+",
+                "label": "Technologies in active use"
+            },
+            {
+                "id": "impact",
+                "value": 29,
+                "suffix": "pts",
+                "label": "Improvement in Lighthouse Performance"
+            }
+        ]
+    },
+    "skills": {
+        "eyebrow": "Technical stack",
+        "title": "Technologies I work with every day",
+        "subtitle": "Grouped by the responsibility they cover, not by hype. I've used each one on a real product.",
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Front-end",
+                "description": "Data-heavy interfaces, reusable components and perceived performance.",
+                "items": [
+                    "React",
+                    "TypeScript",
+                    "JavaScript",
+                    "Angular",
+                    "Vite",
+                    "Tailwind CSS",
+                    "TanStack Query",
+                    "Zustand",
+                    "HTML5",
+                    "CSS3",
+                    "Framer Motion",
+                    "Three.js"
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Back-end & APIs",
+                "description": "Service design, data modelling and stable API contracts.",
+                "items": [
+                    "Node.js",
+                    "Express",
+                    "NestJS",
+                    "Spring Boot",
+                    ".NET Core",
+                    "Django",
+                    "REST",
+                    "GraphQL",
+                    "Zod",
+                    "JWT"
+                ]
+            },
+            {
+                "id": "data",
+                "title": "Data & storage",
+                "description": "Persistence, efficient queries and consistency of financial information.",
+                "items": [
+                    "PostgreSQL",
+                    "MySQL",
+                    "MongoDB",
+                    "Redis",
+                    "SQL"
+                ]
+            },
+            {
+                "id": "quality",
+                "title": "Quality & testing",
+                "description": "A safety net so refactoring stays affordable.",
+                "items": [
+                    "Vitest",
+                    "Jest",
+                    "Testing Library",
+                    "Playwright",
+                    "ESLint",
+                    "Prettier",
+                    "SonarQube"
+                ]
+            },
+            {
+                "id": "devops",
+                "title": "DevOps & infrastructure",
+                "description": "Reproducible deployments and controlled environments.",
+                "items": [
+                    "Docker",
+                    "Git",
+                    "GitHub Actions",
+                    "Linux",
+                    "Vercel",
+                    "Nginx",
+                    "Portainer"
+                ]
+            },
+            {
+                "id": "practices",
+                "title": "Ways of working",
+                "description": "How I organise work with the team.",
+                "items": [
+                    "Scrum",
+                    "Code Review",
+                    "Testing",
+                    "Accessibility (WCAG)",
+                    "Core Web Vitals",
+                    "Design System"
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "eyebrow": "Projects",
+        "title": "Selected work",
+        "subtitle": "Every case study follows the same structure: the challenge, what I built, the technical decisions and the outcome. Fields in brackets still need real data.",
+        "placeholderHelp": "Fields highlighted in amber are waiting for a real metric: replace them with verifiable figures before publishing the portfolio.",
+        "labels": {
+            "challenge": "The challenge",
+            "solution": "What I built",
+            "highlights": "Technical decisions",
+            "result": "Outcome and impact",
+            "stack": "Stack",
+            "demo": "View demo",
+            "code": "View code",
+            "placeholderNote": "Pending completion with measurable data."
+        },
+        "items": [
+            {
+                "id": "cripto",
+                "featured": true,
+                "category": "Financial data · Front-end",
+                "title": "Cripto — real-time market dashboard",
+                "summary": "An application that consumes market APIs to classify and visualise the current value of currencies and cryptocurrencies, with rankings, price changes and continuously updating data.",
+                "challenge": "Presenting constantly changing price series without making the interface unreadable or losing performance on modest devices.",
+                "solution": "I built a dashboard with ranking cards, currency formatting and explicit loading and error states, backed by data fetching decoupled from the presentation layer.",
+                "highlights": [
+                    "Separation between data fetching and rendering so the API provider can change without touching the UI.",
+                    "Currency and large-number formatting with Intl, avoiding precision mistakes when displaying figures.",
+                    "Loading skeletons and empty states instead of blank screens while data is in flight."
+                ],
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "REST API",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://cripto-eosin.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "rickandmorty",
+                "featured": true,
+                "category": "SPA · Routing and state",
+                "title": "Rick & Morty — explorer with dynamic routes",
+                "summary": "An application consuming a public API to display details of characters, locations and episodes, using dynamic routing and efficient state management.",
+                "challenge": "Sustaining deep navigation and combined filters without reloading the app or duplicating requests.",
+                "solution": "I implemented per-entity dynamic routes, result caching and a state layer that avoids re-fetching data already visited.",
+                "highlights": [
+                    "Dynamic routes with parameters so any detail page can be shared as a direct link.",
+                    "Client-side caching to cut repeated requests and improve perceived speed.",
+                    "Detail components reused across different entities."
+                ],
+                "result": "[OUTCOME: add a real metric, e.g. requests saved or navigation improvement]",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "React Router",
+                    "REST API"
+                ],
+                "links": {
+                    "demo": "https://rick-and-morty-mocha-delta.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "todo",
+                "featured": false,
+                "category": "Productivity · Local persistence",
+                "title": "To-Do — task management with persistence",
+                "summary": "A task list built with React Hooks and browser local storage, with real-time updates and persistence across sessions.",
+                "challenge": "Keeping state in sync with local storage without breaking the experience when the user reloads or closes the tab.",
+                "solution": "I created Hook-driven state synchronised with localStorage, supporting create, complete and delete operations.",
+                "highlights": [
+                    "Derived state and explicit synchronisation with localStorage on every mutation.",
+                    "Small, focused components that are easy to test in isolation.",
+                    "Keyboard-operable interface for adding and completing tasks."
+                ],
+                "result": "[OUTCOME: add a real metric if you have one]",
+                "stack": [
+                    "React",
+                    "React Hooks",
+                    "localStorage",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://to-do-delta-bice.vercel.app/",
+                    "code": ""
+                }
+            },
+            {
+                "id": "badjokes",
+                "featured": false,
+                "category": "API consumption · Lightweight UI",
+                "title": "Bad Jokes — playful API integration",
+                "summary": "An application consuming a jokes API to browse and share them interactively, with careful loading and error states.",
+                "challenge": "Delivering a snappy experience on top of an external API that can be slow or fail.",
+                "solution": "I implemented the integration with explicit error handling, clear interaction controls and a lightweight interface centred on the main action.",
+                "highlights": [
+                    "Visible error handling for the user instead of silent failures.",
+                    "A minimal interface that prioritises the main action on a single screen.",
+                    "Reusable custom styles without heavy dependencies."
+                ],
+                "result": "[OUTCOME: add a real metric if you have one]",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "REST API",
+                    "CSS3"
+                ],
+                "links": {
+                    "demo": "https://valemorenodev.github.io/bad-jokes/",
+                    "code": ""
+                }
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "Track record",
+        "title": "Professional experience",
+        "subtitle": "The bracketed fields are yours to complete: company names, dates and measurable achievements.",
+        "labels": {
+            "current": "Current",
+            "stack": "Stack"
+        },
+        "items": [
+            {
+                "id": "freelance-fullstack",
+                "period": "December 2021 — Present",
+                "role": "Full-Stack Developer",
+                "company": "Independent Professional",
+                "location": "Remote · Bogotá, Colombia",
+                "current": true,
+                "summary": "Design, develop, and maintain web applications for clients across different industries, covering everything from user interfaces to business logic, APIs, and service integrations. My experience includes administrative dashboards, e-commerce platforms, debt collection management systems, and business applications tailored to specific business needs.",
+                "stack": [
+                    "React",
+                    "JavaScript",
+                    "Node.js",
+                    "Python",
+                    "HTML5",
+                    "CSS3",
+                    "REST APIs"
+                ]
+            },
+            {
+                "id": "ntt-data",
+                "period": "March 2025 — March 2026",
+                "role": "Software Development Specialist",
+                "company": "NTT DATA Europe & Latam",
+                "location": "Hybrid · Bogotá, Colombia",
+                "current": false,
+                "summary": "Contributed to the development and evolution of enterprise software solutions for clients including Credicorp Capital, Avianca, Porvenir, and Telefónica. Supported administrative process automation, service integration, and web application improvements, with a focus on code quality, maintainability, and business requirements.",
+                "achievements": [
+                    "Contributed to the automation of administrative processes for Avianca and Credicorp Capital projects, helping optimize operational tasks and workflows.",
+                    "Developed and maintained web application features and REST API integrations to improve communication between systems and data exchange.",
+                    "Applied software development best practices, refactoring, and static code analysis with SonarQube, collaborating with QA teams to improve software quality and maintainability.",
+                    "Collaborated with technical and business teams using Agile Scrum practices to plan, validate, and deliver features.",
+                    "Contributed to improvements in user interfaces, accessibility, performance, and continuous integration and delivery (CI/CD) processes."
+                ],
+                "stack": [
+                    "Angular",
+                    "React",
+                    "Next.js",
+                    "TypeScript",
+                    "JavaScript",
+                    "Python",
+                    ".NET",
+                    "REST APIs",
+                    "PostgreSQL",
+                    "SonarQube",
+                    "Azure DevOps",
+                    "CI/CD",
+                    "Git",
+                    "Scrum"
+                ]
+            },
+            {
+                "id": "nabit",
+                "period": "December 2024 — March 2025",
+                "role": "Mobile Software Developer",
+                "company": "Nabit",
+                "location": "Remote · Bogotá, Colombia",
+                "current": false,
+                "summary": "Developed and maintained mobile application features using Flutter and Dart, contributing to performance optimization, bug fixing, and continuous improvements to the user experience. Also collaborated on CI/CD processes to support the integration, validation, and delivery of application updates.",
+                "achievements": [
+                    "Developed and maintained mobile features using Flutter and Dart to meet application requirements.",
+                    "Improved components, interfaces, and navigation flows to support application performance, stability, and usability.",
+                    "Identified, investigated, and fixed bugs to improve software reliability and the user experience.",
+                    "Participated in continuous integration and delivery (CI/CD) processes, supporting development and deployment workflows.",
+                    "Validated changes through functional testing and collaborated on maintaining existing features and resolving issues."
+                ],
+                "stack": [
+                    "Flutter",
+                    "Dart",
+                    "Mobile Development",
+                    "CI/CD",
+                    "Debugging",
+                    "Application Optimization",
+                    "Functional Testing"
+                ]
+            },
+            {
+                "id": "pelaez-hermanos",
+                "period": "February 2024 — June 2024",
+                "role": ".NET Developer",
+                "company": "Peláez Hermanos S.A.",
+                "location": "On-site · Bogotá, Colombia",
+                "current": false,
+                "summary": "Developed and maintained enterprise software solutions using .NET technologies and complementary tools. Contributed to web and desktop application development, operational task automation, and system integration, supporting the efficiency, stability, and maintainability of business applications.",
+                "achievements": [
+                    "Developed and maintained enterprise web and desktop applications using .NET and DevExpress, implementing features based on business requirements.",
+                    "Created Python scripts and automation tools to simplify repetitive tasks and reduce manual effort in operational workflows.",
+                    "Contributed to the integration of systems and components to improve communication between applications and data exchange.",
+                    "Implemented functional adjustments and technical improvements to maintain application stability and reliability.",
+                    "Performed testing, code debugging, and issue resolution to identify defects and support software quality.",
+                    "Maintained and optimized existing applications, applying development best practices to improve code readability, reusability, and maintainability."
+                ],
+                "stack": [
+                    ".NET",
+                    "DevExpress",
+                    "Python",
+                    "Web Applications",
+                    "Desktop Applications",
+                    "Process Automation",
+                    "System Integration",
+                    "Testing and Debugging"
+                ]
+            },
+            {
+                "id": "accenture-sg-sst",
+                "period": "July 2023 — January 2024",
+                "role": ".NET Developer (SG-SST)",
+                "company": "Accenture Colombia",
+                "location": "Remote · Bogotá, Colombia",
+                "current": false,
+                "summary": "Contributed to the development and maintenance of enterprise solutions using Microsoft ecosystem technologies and modern web development tools. Supported feature implementation, process automation, and continuous application improvement, with a focus on software quality, maintainability, and workflow efficiency.",
+                "achievements": [
+                    "Developed and maintained enterprise application features using .NET Framework and C#, aligned with business requirements.",
+                    "Implemented low-code solutions with Microsoft Power Apps to support business process digitization and automation.",
+                    "Built web interfaces with Next.js and React.js, using reusable components to improve application maintainability and evolution.",
+                    "Used Azure DevOps to support the software development lifecycle, including version control, task tracking, and CI/CD processes.",
+                    "Worked with MongoDB for data persistence and management according to project requirements.",
+                    "Performed static code analysis with SonarQube to identify opportunities to improve maintainability, security, and software quality.",
+                    "Helped resolve issues and apply development best practices to support software stability and ongoing improvement."
+                ],
+                "stack": [
+                    ".NET Framework",
+                    "C#",
+                    "Microsoft Power Apps",
+                    "Azure DevOps",
+                    "Next.js",
+                    "React.js",
+                    "MongoDB",
+                    "SonarQube",
+                    "CI/CD",
+                    "Git",
+                    "Web Development",
+                    "Process Automation"
+                ]
+            },
+            {
+                "id": "red-jobs-frontend-lead",
+                "period": "February 2023 — April 2023",
+                "role": "Front-End Lead",
+                "company": "Red Jobs",
+                "location": "Remote · Bogotá, Colombia",
+                "current": false,
+                "summary": "Led the Front-End team in developing Red Jobs' partner management platform while contributing to Full-Stack tasks using the MERN stack. Helped define the application's technical structure, build administrative features, and create interfaces designed to improve project and business information management.",
+                "achievements": [
+                    "Led and coordinated the Front-End team, encouraging technical collaboration, task organization, and progress toward project goals.",
+                    "Contributed to defining the application's architecture and structure, prioritizing a modular and maintainable codebase.",
+                    "Developed web interfaces and features with React.js and its ecosystem of libraries, emphasizing component reuse and user experience.",
+                    "Implemented dynamic routes to list company projects and display their descriptions, making information easier to access.",
+                    "Developed a finance module within the administrative dashboard to centralize financial management features.",
+                    "Built and integrated server-side functionality with Node.js and Express.js, using MongoDB for data management.",
+                    "Created UX/UI proposals in Figma, aligning interface designs with the product's functional requirements.",
+                    "Collaborated throughout feature planning, implementation, and tracking using the Scrum methodology."
+                ],
+                "stack": [
+                    "React.js",
+                    "Node.js",
+                    "Express.js",
+                    "MongoDB",
+                    "MERN Stack",
+                    "Figma",
+                    "Scrum",
+                    "Full-Stack Development",
+                    "Technical Leadership",
+                    "UX/UI Design"
+                ]
+            },
+            {
+                "id": "cobrando-bpo-web-developer",
+                "period": "December 2022 — February 2023",
+                "role": "Web Developer",
+                "company": "COBRANDO BPO",
+                "location": "Bogotá, Colombia",
+                "current": false,
+                "summary": "Developed and maintained web applications for debt collection, information management, and performance indicator visualization. Contributed to the functionality, usability, and stability of internal business tools by building responsive interfaces, maintaining UI components, and resolving software issues.",
+                "achievements": [
+                    "Built dynamic, responsive web interfaces using React.js, JavaScript, HTML5, CSS3, and Bootstrap, with a focus on usability and visual consistency.",
+                    "Implemented and maintained features for debt collection systems, CRM platforms, and dashboards, supporting information access and tracking.",
+                    "Improved UI components, fixed bugs, and resolved issues to maintain application stability and functionality.",
+                    "Managed source code through GitLab, following version control and collaborative development practices.",
+                    "Used Docker to support application setup and execution in controlled development environments.",
+                    "Organized tasks and tracked activities and deliverables through Jira while collaborating under the Scrum framework.",
+                    "Worked remotely through virtual machines to develop, validate, and maintain enterprise applications."
+                ],
+                "stack": [
+                    "React.js",
+                    "JavaScript",
+                    "HTML5",
+                    "CSS3",
+                    "Bootstrap",
+                    "Docker",
+                    "GitLab",
+                    "Jira",
+                    "Scrum",
+                    "Virtual Machines",
+                    "Front-End Development",
+                    "Web Application Maintenance"
+                ]
+            },
+            {
+                "id": "hgio-web-developer",
+                "period": "October 2022 — November 2022",
+                "role": "Web Developer",
+                "company": "HGIO S.A.S.",
+                "location": "Remote · Bogotá, Colombia",
+                "current": false,
+                "summary": "Contributed to web interface development and maintenance during a temporary contract, using JavaScript ecosystem technologies to implement functional updates, improve UI components, and adapt applications to project requirements. Focused on code organization, usability, and interface maintainability.",
+                "achievements": [
+                    "Developed and maintained web interfaces using Angular, TypeScript, and JavaScript, following an organized code structure and reusable component practices.",
+                    "Implemented and refined styles with Sass (SCSS) to maintain visual consistency and simplify stylesheet maintenance.",
+                    "Fixed bugs, adjusted features, and resolved issues in existing components to help maintain application stability.",
+                    "Adapted interfaces to functional and visual requirements, prioritizing usability and proper element rendering.",
+                    "Managed source code and tracked changes through GitLab, supporting version control and technical collaboration.",
+                    "Organized and tracked tasks in Trello to support work planning and the delivery of project requirements.",
+                    "Collaborated remotely with the development team to implement improvements and maintain code quality."
+                ],
+                "stack": [
+                    "Angular",
+                    "TypeScript",
+                    "JavaScript",
+                    "Sass (SCSS)",
+                    "GitLab",
+                    "Trello",
+                    "Front-End Development",
+                    "Reusable Components",
+                    "Web Application Maintenance"
+                ]
+            },
+            {
+                "id": "rym-comunicaciones-frontend",
+                "period": "February 2021 — August 2022",
+                "role": "Front-End Developer",
+                "company": "R Y M Comunicaciones S.A.S.",
+                "location": "Remote · Bogotá, Colombia",
+                "current": false,
+                "summary": "Developed and maintained web interfaces for digital projects as an independent professional, turning functional requirements and designs into interactive, responsive experiences. Focused on component reusability, visual consistency, usability, and adapting interfaces to each project's needs.",
+                "achievements": [
+                    "Developed interactive web interfaces using React.js, JavaScript, HTML5, and CSS3, translating functional requirements and designs into web solutions.",
+                    "Implemented responsive layouts with Bootstrap to support consistent display and navigation across different devices and screen sizes.",
+                    "Created, adapted, and maintained reusable UI components to improve visual consistency and simplify code maintenance.",
+                    "Fixed bugs and implemented styling adjustments and functional improvements to enhance application usability and behavior.",
+                    "Managed source code with GitLab, following version control and organized development practices.",
+                    "Organized tasks and tracked progress through Trello to support feature planning and delivery in remote work environments.",
+                    "Adapted interfaces and functionality to project requirements, contributing to the quality and ongoing improvement of digital products."
+                ],
+                "stack": [
+                    "React.js",
+                    "JavaScript",
+                    "HTML5",
+                    "CSS3",
+                    "Bootstrap",
+                    "GitLab",
+                    "Trello",
+                    "Front-End Development",
+                    "Responsive Web Design",
+                    "Reusable Components",
+                    "Web Application Maintenance"
+                ]
+            }
+            
+        ]
+    },
+    "services": {
+        "eyebrow": "Services",
+        "title": "Where I can add value to your team",
+        "subtitle": "Profiles that fit product teams, especially in the financial sector.",
+        "items": [
+            {
+                "id": "web-apps",
+                "title": "Web application development",
+                "description": "From component design to back-end integration: complete React applications, typed and production-ready.",
+                "icon": "layout"
+            },
+            {
+                "id": "dashboards",
+                "title": "Dashboards and data visualisation",
+                "description": "Panels that turn complex financial information into clear decisions: tables, rankings, charts and well-handled error states.",
+                "icon": "chart"
+            },
+            {
+                "id": "integrations",
+                "title": "API and service integration",
+                "description": "REST and GraphQL consumption, authentication, error handling and stable contracts between front-end and back-end.",
+                "icon": "plug"
+            },
+            {
+                "id": "performance",
+                "title": "Performance, accessibility and quality",
+                "description": "Core Web Vitals optimisation, WCAG accessibility, automated testing and reduction of technical debt.",
+                "icon": "gauge"
+            }
+        ]
+    },
+    "contact": {
+        "eyebrow": "Contact",
+        "title": "Shall we build something together?",
+        "subtitle": "Tell me about your team, your product or the technical challenge ahead. I reply within 24 hours.",
+        "emailLabel": "Email me",
+        "email": "valentinamoreno.dev@gmail.com",
+        "linkedinLabel": "LinkedIn",
+        "linkedin": "https://www.linkedin.com/in/diana-valentina-moreno/",
+        "githubLabel": "GitHub",
+        "github": "https://github.com/valemorenodev",
+        "cvLabel": "Download CV",
+        "cvHref": "",
+        "availability": "Available for full stack and front-end roles, remote.",
+        "form": {
+            "open": "Send me a message",
+            "title": "Send a message",
+            "name": "Name",
+            "namePlaceholder": "Your name or company",
+            "email": "Email",
+            "emailPlaceholder": "you@company.com",
+            "message": "Message",
+            "messagePlaceholder": "Tell me about the role or the project",
+            "submit": "Send message",
+            "sending": "Sending…",
+            "cancel": "Cancel",
+            "successTitle": "Message sent",
+            "successText": "Thanks for reaching out. I'll get back to you as soon as I can.",
+            "errorTitle": "Could not send",
+            "errorText": "Please check your details and try again in a few minutes.",
+            "validationEmpty": "Please fill in every field before sending.",
+            "validationEmail": "Please enter a valid email address."
+        }
+    },
+    "footer": {
+        "tagline": "Full Stack Developer · React · TypeScript · Node.js",
+        "location": "Colombia · Working remotely",
+        "navTitle": "Navigation",
+        "socialTitle": "Social and contact",
+        "rights": "All rights reserved.",
+        "builtWith": "Built with React, Tailwind CSS, Three.js and Framer Motion."
+    },
+    "ui": {
+        "languageToggle": "Switch language",
+        "openMenu": "Open menu",
+        "closeMenu": "Close menu",
+        "skipToContent": "Skip to main content",
+        "backToTop": "Back to top",
+        "loading3d": "Loading 3D scene",
+        "themeNote": "Permanent dark mode"
+    },
+    "notFound": {
+        "metaTitle": "404 — Page not found | Valentina Moreno",
+        "gameMetaTitle": "Endless cube — Mini-game | Valentina Moreno",
+        "code": "Error 404",
+        "title": "This route doesn't exist",
+        "description": "The page you're looking for isn't here. The link may be broken or the address might have a typo. While you decide where to go, here's a detour: a small game.",
+        "homeCta": "Back to home",
+        "projectsCta": "See projects",
+        "gameTitle": "Endless cube",
+        "gameSubtitle": "Dodge the spikes, collect coins and last as long as you can. Speed ramps up every run.",
+        "game": {
+            "start": "Play",
+            "again": "Try again",
+            "restart": "Restart",
+            "distance": "Distance",
+            "coins": "Coins",
+            "best": "Best",
+            "gameOver": "You crashed",
+            "newRecord": "New record!",
+            "mute": "Mute sound",
+            "unmute": "Unmute sound",
+            "controlsJumpLabel": "to jump",
+            "controlsTouch": "On mobile, tap the screen. Clicking works too.",
+            "controlsJump": [
+                "Space",
+                "↑",
+                "W"
+            ],
+            "canvasLabel": "Mini-game: a cube jumps over obstacles. Use the space bar or the up arrow to jump."
+        }
+    }
+}
