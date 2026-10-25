@@ -21,7 +21,23 @@ export default function Projects() {
 
   const featured = t.projects.items.filter((project) => project.featured)
   const secondary = t.projects.items.filter((project) => !project.featured)
-  const hasPlaceholders = t.projects.items.some((project) => /^\[.*\]$/.test(project.result.trim()))
+  
+ console.log('Idioma actual:', t?.projects);
+console.log('Items de proyectos:', t?.projects?.items);
+
+if (!Array.isArray(t?.projects?.items)) {
+  console.error(
+    'La traducción projects.items no existe o no es un array.',
+    t?.projects?.items,
+  );
+}
+ 
+const hasPlaceholders = Array.isArray(t?.projects?.items)
+  && t.projects.items.some(
+    (project) =>
+      typeof project?.result === 'string' &&
+      /^\[.*\]$/.test(project.result.trim()),
+  );
 
   return (
     <SectionShell

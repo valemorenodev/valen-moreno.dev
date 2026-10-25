@@ -283,7 +283,6 @@
                     "Interfaz mínima que prioriza la acción principal en una sola pantalla.",
                     "Estilos propios reutilizables sin dependencias pesadas."
                 ],
-                "result": "[RESULTADO: añade una métrica real si la tienes]",
                 "stack": [
                     "React",
                     "JavaScript",
@@ -300,7 +299,6 @@
     "experience": {
         "eyebrow": "Trayectoria",
         "title": "Experiencia profesional",
-        "subtitle": "Los campos entre corchetes los completas tú: nombres de empresa, fechas y logros medibles.",
         "labels": {
             "current": "Actualidad",
             "stack": "Stack"
@@ -314,6 +312,11 @@
                 "location": "Remoto · Bogotá, Colombia",
                 "current": true,
                 "summary": "Diseño, desarrollo y mantengo aplicaciones web para clientes de distintos sectores, desde la construcción de interfaces hasta la implementación de lógica de negocio, APIs e integración de servicios. He trabajado en dashboards administrativos, plataformas de comercio electrónico, sistemas de gestión de cobranza y soluciones empresariales, adaptando cada producto a las necesidades del negocio.",
+                "achievements": [
+                    "Mejoramiento de metricas de rendimiento y accesibilidad en aplicaciones web, logrando una mejora de [LOGRO: añade un porcentaje o puntuación verificable] en Core Web Vitals.",
+                    "[LOGRO: incorpora un resultado verificable relacionado con rendimiento, usabilidad, automatización o reducción de errores]",
+                    "[LOGRO: describe una mejora técnica o de proceso, como reutilización de componentes, integración de servicios o mantenimiento del código]"
+                ],
                 "stack": [
                     "React",
                     "JavaScript",
@@ -333,7 +336,7 @@
                 "current": false,
                 "summary": "Participé en el desarrollo y la evolución de soluciones de software empresarial para clientes como Credicorp Capital, Avianca, Porvenir y Telefónica. Contribuí a la automatización de procesos administrativos, la integración de servicios y la mejora de aplicaciones web, priorizando la calidad del código, la mantenibilidad y las necesidades del negocio.",
                 "achievements": [
-                    "Contribuí a la automatización de procesos administrativos en proyectos para Avianca y Credicorp Capital, apoyando la optimización de tareas operativas y flujos de trabajo.",
+                    "[LOGRO: Contribuí a la automatización de procesos administrativos en proyectos para Avianca y Credicorp Capital, apoyando la optimización de tareas operativas y flujos de trabajo.]",
                     "Desarrollé y mantuve funcionalidades web e integraciones mediante APIs REST para facilitar la comunicación entre sistemas y el intercambio de información.",
                     "Apliqué buenas prácticas de desarrollo, refactorización y análisis estático con SonarQube, colaborando con los equipos de QA para mejorar la calidad y mantenibilidad del software.",
                     "Colaboré con equipos técnicos y de negocio bajo metodologías ágiles Scrum en la planificación, validación y entrega de funcionalidades.",

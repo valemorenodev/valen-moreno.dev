@@ -234,7 +234,6 @@
                     "Client-side caching to cut repeated requests and improve perceived speed.",
                     "Detail components reused across different entities."
                 ],
-                "result": "[OUTCOME: add a real metric, e.g. requests saved or navigation improvement]",
                 "stack": [
                     "React",
                     "JavaScript",
@@ -259,7 +258,6 @@
                     "Small, focused components that are easy to test in isolation.",
                     "Keyboard-operable interface for adding and completing tasks."
                 ],
-                "result": "[OUTCOME: add a real metric if you have one]",
                 "stack": [
                     "React",
                     "React Hooks",
@@ -284,7 +282,6 @@
                     "A minimal interface that prioritises the main action on a single screen.",
                     "Reusable custom styles without heavy dependencies."
                 ],
-                "result": "[OUTCOME: add a real metric if you have one]",
                 "stack": [
                     "React",
                     "JavaScript",
@@ -301,7 +298,6 @@
     "experience": {
         "eyebrow": "Track record",
         "title": "Professional experience",
-        "subtitle": "The bracketed fields are yours to complete: company names, dates and measurable achievements.",
         "labels": {
             "current": "Current",
             "stack": "Stack"
@@ -315,6 +311,11 @@
                 "location": "Remote · Bogotá, Colombia",
                 "current": true,
                 "summary": "Design, develop, and maintain web applications for clients across different industries, covering everything from user interfaces to business logic, APIs, and service integrations. My experience includes administrative dashboards, e-commerce platforms, debt collection management systems, and business applications tailored to specific business needs.",
+                 "achievements": [
+                    "",
+                    "[LOGRO: incorpora un resultado verificable relacionado con rendimiento, usabilidad, automatización o reducción de errores]",
+                    "[LOGRO: describe una mejora técnica o de proceso, como reutilización de componentes, integración de servicios o mantenimiento del código]"
+                ],
                 "stack": [
                     "React",
                     "JavaScript",
@@ -564,7 +565,6 @@
                     "Web Application Maintenance"
                 ]
             }
-            
         ]
     },
     "services": {
