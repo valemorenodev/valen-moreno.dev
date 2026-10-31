@@ -190,7 +190,6 @@
             "challenge": "El reto",
             "solution": "Qué construí",
             "highlights": "Decisiones técnicas",
-            "result": "Resultado e impacto",
             "stack": "Stack",
             "demo": "Ver demo",
             "code": "Ver código",
@@ -210,7 +209,6 @@
                     "Formateo de moneda y números grandes con Intl, evitando errores de precisión al mostrar cifras.",
                     "Esqueletos de carga y estados vacíos en lugar de pantallas en blanco mientras llega el dato."
                 ],
-                "result": "[RESULTADO: añade una métrica real, p. ej. tiempo de carga, número de activos soportados o usuarios]",
                 "stack": [
                     "React",
                     "JavaScript",
@@ -306,16 +304,21 @@
         "items": [
             {
                 "id": "freelance-fullstack",
-                "period": "Diciembre 2021 — Actualidad",
+                "period": "Enero 2020 — Actualidad",
                 "role": "Desarrolladora Full-Stack",
                 "company": "Profesional independiente",
                 "location": "Remoto · Bogotá, Colombia",
                 "current": true,
                 "summary": "Diseño, desarrollo y mantengo aplicaciones web para clientes de distintos sectores, desde la construcción de interfaces hasta la implementación de lógica de negocio, APIs e integración de servicios. He trabajado en dashboards administrativos, plataformas de comercio electrónico, sistemas de gestión de cobranza y soluciones empresariales, adaptando cada producto a las necesidades del negocio.",
                 "achievements": [
-                    "Mejoramiento de metricas de rendimiento y accesibilidad en aplicaciones web, logrando una mejora de [LOGRO: añade un porcentaje o puntuación verificable] en Core Web Vitals.",
-                    "[LOGRO: incorpora un resultado verificable relacionado con rendimiento, usabilidad, automatización o reducción de errores]",
-                    "[LOGRO: describe una mejora técnica o de proceso, como reutilización de componentes, integración de servicios o mantenimiento del código]"
+                    "[LOGRO: Mejoramiento de metricas de rendimiento y accesibilidad en aplicaciones web, logrando una mejora de en Core Web Vitals.]",
+                    "[LOGRO: Implementacion de sonarQube para analisis estatico de codigo y mejora de mantenibilidad con cobertura del 100% de las funcionalidades criticas.]",
+                    "Desarrollo de dashboards administrativos con React y TypeScript, integrando APIs REST y GraphQL para la visualización de datos financieros en tiempo real.]",
+                    "Desarrollo de soluciones de comercio electrónico con React y Next.js, implementando autenticación, gestión de productos y pasarelas de pago.]",
+                    "Integración de servicios externos y APIs de terceros para mejorar la funcionalidad y la experiencia del usuario en aplicaciones web.]",
+                    "Implementación de pruebas unitarias y de integración con Jest y Testing Library, asegurando la calidad del código y la estabilidad de las aplicaciones.]",
+                    "Colaboración con equipos de diseño y producto para garantizar la coherencia visual y la usabilidad de las interfaces, aplicando principios de diseño centrado en el usuario.]",
+                    "Participación en la planificación y ejecución de proyectos bajo metodologías ágiles, contribuyendo a la entrega oportuna de funcionalidades y mejoras.]"
                 ],
                 "stack": [
                     "React",
@@ -337,6 +340,7 @@
                 "summary": "Participé en el desarrollo y la evolución de soluciones de software empresarial para clientes como Credicorp Capital, Avianca, Porvenir y Telefónica. Contribuí a la automatización de procesos administrativos, la integración de servicios y la mejora de aplicaciones web, priorizando la calidad del código, la mantenibilidad y las necesidades del negocio.",
                 "achievements": [
                     "[LOGRO: Contribuí a la automatización de procesos administrativos en proyectos para Avianca y Credicorp Capital, apoyando la optimización de tareas operativas y flujos de trabajo.]",
+                    "[LOGRO: Desarrollé e implementé pruebas unitarias y de integración para asegurar la calidad del código y la estabilidad de las aplicaciones móviles.]",
                     "Desarrollé y mantuve funcionalidades web e integraciones mediante APIs REST para facilitar la comunicación entre sistemas y el intercambio de información.",
                     "Apliqué buenas prácticas de desarrollo, refactorización y análisis estático con SonarQube, colaborando con los equipos de QA para mejorar la calidad y mantenibilidad del software.",
                     "Colaboré con equipos técnicos y de negocio bajo metodologías ágiles Scrum en la planificación, validación y entrega de funcionalidades.",
@@ -368,6 +372,9 @@
                 "current": false,
                 "summary": "Desarrollé y mantuve funcionalidades de aplicaciones móviles utilizando Flutter y Dart, participando en la optimización del rendimiento, la corrección de errores y la mejora continua de la experiencia del usuario. También colaboré en procesos CI/CD para apoyar la integración, validación y distribución de cambios.",
                 "achievements": [
+                    "[LOGRO: Mejoramiento de metricas de rendimiento y accesibilidad en aplicativo móvil.]",
+                    "[LOGRO: Desarroollé e implementé pruebas unitarias y de integración para asegurar la calidad del código y la estabilidad de las aplicaciones móviles.]",
+                    "[LOGRO: Contribuí a la creacion de documentacion tecnica detallada del proyecto, incluyendo diagramas de arquitectura, guías de estilo y manuales de usuario para facilitar la comprensión y el mantenimiento del software.]",
                     "Desarrollé y mantuve funcionalidades móviles con Flutter y Dart, adaptándolas a los requerimientos funcionales de la aplicación.",
                     "Realicé ajustes en componentes, interfaces y flujos de navegación para contribuir al rendimiento, la estabilidad y la usabilidad de la aplicación.",
                     "Identifiqué, analicé y corregí errores para mejorar la confiabilidad del software y la experiencia del usuario.",
@@ -393,6 +400,8 @@
                 "current": false,
                 "summary": "Desarrollé y mantuve soluciones de software empresarial utilizando tecnologías del ecosistema .NET y herramientas complementarias. Participé en la construcción de aplicaciones web y de escritorio, la automatización de tareas operativas y la integración de sistemas, contribuyendo a la eficiencia, estabilidad y mantenibilidad de las soluciones.",
                 "achievements": [
+                    "[LOGRO: Implementé mejoras en la eficiencia de procesos internos mediante la automatización de tareas repetitivas con scripts en Python, reduciendo el tiempo de ejecución y la intervención manual.]",
+                    "[LOGRO: Contribuí a la integración de sistemas y componentes, facilitando la comunicación entre aplicaciones y el intercambio de información, lo que resultó en una mayor eficiencia operativa.]",
                     "Desarrollé y mantuve aplicaciones empresariales web y de escritorio utilizando .NET y DevExpress, implementando funcionalidades según los requerimientos del negocio.",
                     "Creé scripts y herramientas de automatización con Python para simplificar tareas repetitivas y reducir la intervención manual en procesos operativos.",
                     "Colaboré en la integración de sistemas y componentes para facilitar la comunicación entre aplicaciones y el intercambio de información.",
@@ -420,6 +429,8 @@
                 "current": false,
                 "summary": "Participé en el desarrollo y mantenimiento de soluciones empresariales utilizando tecnologías del ecosistema Microsoft y herramientas modernas de desarrollo web. Contribuí a la implementación de funcionalidades, la automatización de procesos y la mejora continua de aplicaciones, priorizando la calidad del software, la mantenibilidad y la eficiencia de los flujos de trabajo.",
                 "achievements": [
+                    "[LOGRO: Implementé mejoras en la eficiencia de procesos internos mediante la automatización de tareas repetitivas con scripts en Python, reduciendo el tiempo de ejecución y la intervención manual.]",
+                    "[LOGRO: Contribuí a la integración de sistemas y componentes, facilitando la comunicación entre aplicaciones y el intercambio de información, lo que resultó en una mayor eficiencia operativa.]",
                     "Desarrollé y mantuve funcionalidades para aplicaciones empresariales utilizando .NET Framework y C#, alineadas con los requerimientos del negocio.",
                     "Implementé soluciones de bajo código con Microsoft Power Apps para apoyar la digitalización y automatización de procesos empresariales.",
                     "Desarrollé interfaces web con Next.js y React.js, utilizando componentes reutilizables para facilitar el mantenimiento y la evolución de las aplicaciones.",
@@ -440,7 +451,10 @@
                     "CI/CD",
                     "Git",
                     "Desarrollo web",
-                    "Automatización de procesos"
+                    "Automatización de procesos",
+                    "Power Automate",
+                    "Power Platform",
+                    "Power Apps"
                 ]
             },
             {
@@ -452,6 +466,8 @@
                 "current": false,
                 "summary": "Lideré el equipo Front-End durante el desarrollo de la plataforma de gestión de aliados de Red Jobs y participé en tareas Full-Stack utilizando el stack MERN. Contribuí a la definición de la estructura técnica, el desarrollo de funcionalidades administrativas y la creación de interfaces orientadas a mejorar la gestión de proyectos e información empresarial.",
                 "achievements": [
+                    "[LOGRO: Implementé un sistema de control de versiones y revisión de código que mejoró la calidad del software y redujo los errores en producción.]",
+                    "[LOGRO: Contribuí a la definición de la arquitectura y estructura de la aplicación, priorizando una organización modular y mantenible.]",
                     "Lideré y coordiné al equipo Front-End, promoviendo la colaboración técnica, la organización de tareas y el cumplimiento de los objetivos del proyecto.",
                     "Participé en la definición de la arquitectura y estructura de la aplicación, priorizando una organización modular y mantenible.",
                     "Desarrollé interfaces y funcionalidades web con React.js y librerías de su ecosistema, favoreciendo la reutilización de componentes y la experiencia de usuario.",

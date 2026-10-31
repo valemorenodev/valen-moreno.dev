@@ -190,7 +190,6 @@
             "challenge": "The challenge",
             "solution": "What I built",
             "highlights": "Technical decisions",
-            "result": "Outcome and impact",
             "stack": "Stack",
             "demo": "View demo",
             "code": "View code",
@@ -311,10 +310,15 @@
                 "location": "Remote · Bogotá, Colombia",
                 "current": true,
                 "summary": "Design, develop, and maintain web applications for clients across different industries, covering everything from user interfaces to business logic, APIs, and service integrations. My experience includes administrative dashboards, e-commerce platforms, debt collection management systems, and business applications tailored to specific business needs.",
-                 "achievements": [
-                    "",
-                    "[LOGRO: incorpora un resultado verificable relacionado con rendimiento, usabilidad, automatización o reducción de errores]",
-                    "[LOGRO: describe una mejora técnica o de proceso, como reutilización de componentes, integración de servicios o mantenimiento del código]"
+                "achievements": [
+                    "[ACHIEVEMENT: Improvement of performance and accessibility metrics in web applications, achieving an enhancement in Core Web Vitals.]",
+                    "[ACHIEVEMENT: Implementation of SonarQube for static code analysis and maintainability improvement, with 100% coverage of critical features.]",
+                    "Development of administrative dashboards with React and TypeScript, integrating REST and GraphQL APIs for real-time financial data visualization.]",
+                    "Development of e-commerce solutions with React and Next.js, implementing authentication, product management, and payment gateways.]",
+                    "Integration of external services and third-party APIs to enhance functionality and user experience in web applications.]",
+                    "Implementation of unit and integration tests with Jest and Testing Library, ensuring code quality and application stability.]",
+                    "Collaboration with design and product teams to ensure visual consistency and interface usability, applying user-centered design principles.]",
+                    "Participation in project planning and execution under agile methodologies, contributing to the timely delivery of features and improvements.]"
                 ],
                 "stack": [
                     "React",
@@ -335,11 +339,12 @@
                 "current": false,
                 "summary": "Contributed to the development and evolution of enterprise software solutions for clients including Credicorp Capital, Avianca, Porvenir, and Telefónica. Supported administrative process automation, service integration, and web application improvements, with a focus on code quality, maintainability, and business requirements.",
                 "achievements": [
-                    "Contributed to the automation of administrative processes for Avianca and Credicorp Capital projects, helping optimize operational tasks and workflows.",
-                    "Developed and maintained web application features and REST API integrations to improve communication between systems and data exchange.",
-                    "Applied software development best practices, refactoring, and static code analysis with SonarQube, collaborating with QA teams to improve software quality and maintainability.",
-                    "Collaborated with technical and business teams using Agile Scrum practices to plan, validate, and deliver features.",
-                    "Contributed to improvements in user interfaces, accessibility, performance, and continuous integration and delivery (CI/CD) processes."
+                    "[ACHIEVEMENT: Contributed to the automation of administrative processes in projects for Avianca and Credicorp Capital, supporting the optimization of operational tasks and workflows.]",
+                    "[ACHIEVEMENT: Developed and implemented unit and integration tests to ensure code quality and mobile application stability.]",
+                    "Developed and maintained web features and integrations through REST APIs to facilitate communication between systems and information exchange.",
+                    "Applied development best practices, refactoring, and static analysis with SonarQube, collaborating with QA teams to improve software quality and maintainability.",
+                    "Collaborated with technical and business teams under Scrum agile methodologies in the planning, validation, and delivery of features.",
+                    "Participated in improvements to interfaces, accessibility, performance, and continuous integration and delivery (CI/CD) processes."
                 ],
                 "stack": [
                     "Angular",
@@ -367,11 +372,14 @@
                 "current": false,
                 "summary": "Developed and maintained mobile application features using Flutter and Dart, contributing to performance optimization, bug fixing, and continuous improvements to the user experience. Also collaborated on CI/CD processes to support the integration, validation, and delivery of application updates.",
                 "achievements": [
-                    "Developed and maintained mobile features using Flutter and Dart to meet application requirements.",
-                    "Improved components, interfaces, and navigation flows to support application performance, stability, and usability.",
-                    "Identified, investigated, and fixed bugs to improve software reliability and the user experience.",
+                    "[ACHIEVEMENT: Improvement of performance and accessibility metrics in the mobile application.]",
+                    "[ACHIEVEMENT: Developed and implemented unit and integration tests to ensure code quality and mobile application stability.]",
+                    "[ACHIEVEMENT: Contributed to the creation of detailed technical documentation for the project, including architecture diagrams, style guides, and user manuals to facilitate software understanding and maintenance.]",
+                    "Developed and maintained mobile features with Flutter and Dart, adapting them to the functional requirements of the application.",
+                    "Made adjustments to components, interfaces, and navigation flows to contribute to the application's performance, stability, and usability.",
+                    "Identified, analyzed, and fixed bugs to improve software reliability and user experience.",
                     "Participated in continuous integration and delivery (CI/CD) processes, supporting development and deployment workflows.",
-                    "Validated changes through functional testing and collaborated on maintaining existing features and resolving issues."
+                    "Validated changes through functional testing and collaborated on the maintenance of existing features and incident resolution."
                 ],
                 "stack": [
                     "Flutter",
@@ -392,12 +400,14 @@
                 "current": false,
                 "summary": "Developed and maintained enterprise software solutions using .NET technologies and complementary tools. Contributed to web and desktop application development, operational task automation, and system integration, supporting the efficiency, stability, and maintainability of business applications.",
                 "achievements": [
-                    "Developed and maintained enterprise web and desktop applications using .NET and DevExpress, implementing features based on business requirements.",
-                    "Created Python scripts and automation tools to simplify repetitive tasks and reduce manual effort in operational workflows.",
-                    "Contributed to the integration of systems and components to improve communication between applications and data exchange.",
-                    "Implemented functional adjustments and technical improvements to maintain application stability and reliability.",
-                    "Performed testing, code debugging, and issue resolution to identify defects and support software quality.",
-                    "Maintained and optimized existing applications, applying development best practices to improve code readability, reusability, and maintainability."
+                    "[ACHIEVEMENT: Improvement of performance and accessibility metrics in the mobile application.]",
+                    "[ACHIEVEMENT: Developed and implemented unit and integration tests to ensure code quality and mobile application stability.]",
+                    "[ACHIEVEMENT: Contributed to the creation of detailed technical documentation for the project, including architecture diagrams, style guides, and user manuals to facilitate software understanding and maintenance.]",
+                    "Developed and maintained mobile features with Flutter and Dart, adapting them to the functional requirements of the application.",
+                    "Made adjustments to components, interfaces, and navigation flows to contribute to the application's performance, stability, and usability.",
+                    "Identified, analyzed, and fixed bugs to improve software reliability and user experience.",
+                    "Participated in continuous integration and delivery (CI/CD) processes, supporting development and deployment workflows.",
+                    "Validated changes through functional testing and collaborated on the maintenance of existing features and incident resolution."
                 ],
                 "stack": [
                     ".NET",
@@ -419,13 +429,15 @@
                 "current": false,
                 "summary": "Contributed to the development and maintenance of enterprise solutions using Microsoft ecosystem technologies and modern web development tools. Supported feature implementation, process automation, and continuous application improvement, with a focus on software quality, maintainability, and workflow efficiency.",
                 "achievements": [
-                    "Developed and maintained enterprise application features using .NET Framework and C#, aligned with business requirements.",
-                    "Implemented low-code solutions with Microsoft Power Apps to support business process digitization and automation.",
-                    "Built web interfaces with Next.js and React.js, using reusable components to improve application maintainability and evolution.",
-                    "Used Azure DevOps to support the software development lifecycle, including version control, task tracking, and CI/CD processes.",
+                    "[ACHIEVEMENT: Implemented improvements in internal process efficiency through the automation of repetitive tasks with Python scripts, reducing execution time and manual intervention.]",
+                    "[ACHIEVEMENT: Contributed to the integration of systems and components, facilitating communication between applications and information exchange, which resulted in greater operational efficiency.]",
+                    "Developed and maintained features for enterprise applications using .NET Framework and C#, aligned with business requirements.",
+                    "Implemented low-code solutions with Microsoft Power Apps to support the digitalization and automation of business processes.",
+                    "Developed web interfaces with Next.js and React.js, using reusable components to facilitate application maintenance and evolution.",
+                    "Used Azure DevOps to manage the development lifecycle, including version control, task tracking, and support for CI/CD processes.",
                     "Worked with MongoDB for data persistence and management according to project requirements.",
-                    "Performed static code analysis with SonarQube to identify opportunities to improve maintainability, security, and software quality.",
-                    "Helped resolve issues and apply development best practices to support software stability and ongoing improvement."
+                    "Performed static code analysis with SonarQube to identify opportunities for improvement in maintainability, security, and quality.",
+                    "Collaborated on incident resolution and the application of best practices to contribute to software stability and evolution."
                 ],
                 "stack": [
                     ".NET Framework",
@@ -451,14 +463,16 @@
                 "current": false,
                 "summary": "Led the Front-End team in developing Red Jobs' partner management platform while contributing to Full-Stack tasks using the MERN stack. Helped define the application's technical structure, build administrative features, and create interfaces designed to improve project and business information management.",
                 "achievements": [
-                    "Led and coordinated the Front-End team, encouraging technical collaboration, task organization, and progress toward project goals.",
-                    "Contributed to defining the application's architecture and structure, prioritizing a modular and maintainable codebase.",
-                    "Developed web interfaces and features with React.js and its ecosystem of libraries, emphasizing component reuse and user experience.",
-                    "Implemented dynamic routes to list company projects and display their descriptions, making information easier to access.",
+                    "[ACHIEVEMENT: Implemented a version control and code review system that improved software quality and reduced production errors.]",
+                    "[ACHIEVEMENT: Contributed to defining the application's architecture and structure, prioritizing a modular and maintainable organization.]",
+                    "Led and coordinated the Front-End team, promoting technical collaboration, task organization, and achievement of project objectives.",
+                    "Participated in defining the application's architecture and structure, prioritizing a modular and maintainable organization.",
+                    "Developed web interfaces and features with React.js and libraries from its ecosystem, promoting component reuse and user experience.",
+                    "Implemented dynamic routes to list enterprise projects and display their descriptions, facilitating access to information.",
                     "Developed a finance module within the administrative dashboard to centralize financial management features.",
-                    "Built and integrated server-side functionality with Node.js and Express.js, using MongoDB for data management.",
-                    "Created UX/UI proposals in Figma, aligning interface designs with the product's functional requirements.",
-                    "Collaborated throughout feature planning, implementation, and tracking using the Scrum methodology."
+                    "Implemented and integrated server-side features with Node.js and Express.js, using MongoDB for data management.",
+                    "Designed UX/UI proposals in Figma, aligning interfaces with the product's functional requirements.",
+                    "Collaborated under the Scrum methodology in the planning, implementation, and tracking of features."
                 ],
                 "stack": [
                     "React.js",
@@ -482,12 +496,12 @@
                 "current": false,
                 "summary": "Developed and maintained web applications for debt collection, information management, and performance indicator visualization. Contributed to the functionality, usability, and stability of internal business tools by building responsive interfaces, maintaining UI components, and resolving software issues.",
                 "achievements": [
-                    "Built dynamic, responsive web interfaces using React.js, JavaScript, HTML5, CSS3, and Bootstrap, with a focus on usability and visual consistency.",
-                    "Implemented and maintained features for debt collection systems, CRM platforms, and dashboards, supporting information access and tracking.",
-                    "Improved UI components, fixed bugs, and resolved issues to maintain application stability and functionality.",
-                    "Managed source code through GitLab, following version control and collaborative development practices.",
-                    "Used Docker to support application setup and execution in controlled development environments.",
-                    "Organized tasks and tracked activities and deliverables through Jira while collaborating under the Scrum framework.",
+                    "Developed dynamic and responsive web interfaces with React.js, JavaScript, HTML5, CSS3, and Bootstrap, prioritizing usability and visual consistency.",
+                    "Implemented and maintained features for collections recovery systems, CRM, and dashboards, facilitating information lookup and tracking.",
+                    "Improved interface components, fixed bugs, and resolved incidents to maintain application functionality and stability.",
+                    "Managed source code through GitLab, applying version control and technical collaboration practices.",
+                    "Used Docker to support the configuration and execution of applications in controlled development environments.",
+                    "Organized tasks and tracked activities and deliverables with Jira, collaborating under the Scrum agile methodology.",
                     "Worked remotely through virtual machines to develop, validate, and maintain enterprise applications."
                 ],
                 "stack": [
