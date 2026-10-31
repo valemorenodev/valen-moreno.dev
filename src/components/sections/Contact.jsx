@@ -162,7 +162,7 @@ export default function Contact() {
           role="dialog"
           aria-modal="true"
           aria-labelledby="contact-dialog-title"
-          className="fixed inset-0 z-[60] grid place-items-center overflow-y-auto bg-void/80 p-4 backdrop-blur-sm"
+          className="fixed inset-0 z-60 grid place-items-center overflow-y-auto bg-void/80 p-4 backdrop-blur-sm"
           onClick={(event) => {
             if (event.target === event.currentTarget && !sending) setOpen(false)
           }}
